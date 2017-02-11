@@ -1,0 +1,10845 @@
+---
+'95220':
+  :city: ACAMPO
+  :state: CA
+  :county: SAN JOAQUIN
+'93510':
+  :city: ACTON
+  :state: CA
+  :county: LOS ANGELES
+'92301':
+  :city: ADELANTO
+  :state: CA
+  :county: SAN BERNARDINO
+'96006':
+  :city: ADIN
+  :state: CA
+  :county: MODOC
+'91301':
+  :city: AGOURA HILLS
+  :state: CA
+  :county: LOS ANGELES
+'91376':
+  :city: AGOURA HILLS
+  :state: CA
+  :county: LOS ANGELES
+'92536':
+  :city: AGUANGA
+  :state: CA
+  :county: ''
+'93601':
+  :city: AHWAHNEE
+  :state: CA
+  :county: MADERA
+'94501':
+  :city: ALAMEDA
+  :state: CA
+  :county: ALAMEDA
+'94502':
+  :city: AMERICAN CANYON
+  :state: CA
+  :county: NAPA
+'94503':
+  :city: ALAMEDA
+  :state: CA
+  :county: ALAMEDA
+'94507':
+  :city: ALAMO
+  :state: CA
+  :county: CONTRA COSTA
+'94706':
+  :city: ALBANY
+  :state: CA
+  :county: ALAMEDA
+'95410':
+  :city: ALBION
+  :state: CA
+  :county: MENDOCINO
+'95511':
+  :city: ALDERPOINT
+  :state: CA
+  :county: ''
+'91801':
+  :city: ALHAMBRA
+  :state: CA
+  :county: LOS ANGELES
+'91802':
+  :city: ALHAMBRA
+  :state: CA
+  :county: LOS ANGELES
+'91803':
+  :city: ALHAMBRA
+  :state: CA
+  :county: LOS ANGELES
+'91804':
+  :city: ALHAMBRA
+  :state: CA
+  :county: LOS ANGELES
+'91841':
+  :city: ALHAMBRA
+  :state: CA
+  :county: LOS ANGELES
+'91896':
+  :city: ALHAMBRA
+  :state: CA
+  :county: LOS ANGELES
+'91899':
+  :city: ALHAMBRA
+  :state: CA
+  :county: LOS ANGELES
+'95910':
+  :city: ALLEGHANY
+  :state: CA
+  :county: SIERRA
+'93201':
+  :city: ALPAUGH
+  :state: CA
+  :county: ''
+'91901':
+  :city: ALPINE
+  :state: CA
+  :county: ''
+'91903':
+  :city: ALPINE
+  :state: CA
+  :county: ''
+'95701':
+  :city: ALTA
+  :state: CA
+  :county: ''
+'91701':
+  :city: ALTA LOMA
+  :state: CA
+  :county: SAN BERNARDINO
+'91737':
+  :city: ALTA LOMA
+  :state: CA
+  :county: ''
+'91001':
+  :city: ALTADENA
+  :state: CA
+  :county: LOS ANGELES
+'91003':
+  :city: ALTADENA
+  :state: CA
+  :county: LOS ANGELES
+'95221':
+  :city: ALTAVILLE
+  :state: CA
+  :county: ''
+'96101':
+  :city: ALTURAS
+  :state: CA
+  :county: MODOC
+'95002':
+  :city: ALVISO
+  :state: CA
+  :county: ''
+'95601':
+  :city: AMADOR CITY
+  :state: CA
+  :county: ''
+'92304':
+  :city: AMBOY
+  :state: CA
+  :county: SAN BERNARDINO
+'92801':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92802':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92803':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92804':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92805':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92806':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92807':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92808':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92812':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92814':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92815':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92816':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92817':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92825':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92850':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'92899':
+  :city: ANAHEIM
+  :state: CA
+  :county: ORANGE
+'96007':
+  :city: ANDERSON
+  :state: CA
+  :county: SHASTA
+'95222':
+  :city: ANGELS CAMP
+  :state: CA
+  :county: CALAVERAS
+'92305':
+  :city: ANGELUS OAKS
+  :state: CA
+  :county: SAN BERNARDINO
+'94508':
+  :city: ANGWIN
+  :state: CA
+  :county: NAPA
+'95412':
+  :city: ANNAPOLIS
+  :state: CA
+  :county: SONOMA
+'95843':
+  :city: ANTELOPE
+  :state: CA
+  :county: ''
+'94509':
+  :city: ANTIOCH
+  :state: CA
+  :county: CONTRA COSTA
+'94531':
+  :city: ANTIOCH
+  :state: CA
+  :county: CONTRA COSTA
+'92539':
+  :city: ANZA
+  :state: CA
+  :county: ''
+'92307':
+  :city: APPLE VALLEY
+  :state: CA
+  :county: SAN BERNARDINO
+'92308':
+  :city: APPLE VALLEY
+  :state: CA
+  :county: SAN BERNARDINO
+'95703':
+  :city: APPLEGATE
+  :state: CA
+  :county: PLACER
+'95001':
+  :city: APTOS
+  :state: CA
+  :county: ''
+'95003':
+  :city: APTOS
+  :state: CA
+  :county: SANTA CRUZ
+'95912':
+  :city: ARBUCKLE
+  :state: CA
+  :county: COLUSA
+'91006':
+  :city: ARCADIA
+  :state: CA
+  :county: LOS ANGELES
+'91007':
+  :city: ARCADIA
+  :state: CA
+  :county: LOS ANGELES
+'91066':
+  :city: ARCADIA
+  :state: CA
+  :county: LOS ANGELES
+'91077':
+  :city: ARCADIA
+  :state: CA
+  :county: LOS ANGELES
+'95518':
+  :city: ARCATA
+  :state: CA
+  :county: ''
+'95521':
+  :city: ARCATA
+  :state: CA
+  :county: HUMBOLDT
+'93202':
+  :city: ARMONA
+  :state: CA
+  :county: KINGS
+'95223':
+  :city: ARNOLD
+  :state: CA
+  :county: CALAVERAS
+'95004':
+  :city: AROMAS
+  :state: CA
+  :county: MONTEREY
+'93420':
+  :city: ARROYO GRANDE
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93421':
+  :city: ARROYO GRANDE
+  :state: CA
+  :county: SAN LUIS OBISPO
+'90701':
+  :city: ARTESIA
+  :state: CA
+  :county: LOS ANGELES
+'90702':
+  :city: ARTESIA
+  :state: CA
+  :county: LOS ANGELES
+'95913':
+  :city: ARTOIS
+  :state: CA
+  :county: ''
+'93203':
+  :city: ARVIN
+  :state: CA
+  :county: KERN
+'93422':
+  :city: ATASCADERO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93423':
+  :city: ATASCADERO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'95301':
+  :city: ATWATER
+  :state: CA
+  :county: MERCED
+'92811':
+  :city: ATWOOD
+  :state: CA
+  :county: ORANGE
+'93602':
+  :city: AUBERRY
+  :state: CA
+  :county: FRESNO
+'95602':
+  :city: AUBURN
+  :state: CA
+  :county: ''
+'95603':
+  :city: AUBURN
+  :state: CA
+  :county: PLACER
+'95604':
+  :city: AUBURN
+  :state: CA
+  :county: ''
+'90704':
+  :city: AVALON
+  :state: CA
+  :county: LOS ANGELES
+'93204':
+  :city: AVENAL
+  :state: CA
+  :county: KINGS
+'95224':
+  :city: AVERY
+  :state: CA
+  :county: ''
+'93424':
+  :city: AVILA BEACH
+  :state: CA
+  :county: SAN LUIS OBISPO
+'91702':
+  :city: AZUSA
+  :state: CA
+  :county: LOS ANGELES
+'93603':
+  :city: BADGER
+  :state: CA
+  :county: ''
+'92309':
+  :city: BAKER
+  :state: CA
+  :county: SAN BERNARDINO
+'92364':
+  :city: BAKER
+  :state: CA
+  :county: SAN BERNARDINO
+'93301':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93302':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93303':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93304':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93305':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93306':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93307':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93308':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93309':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93311':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93312':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93313':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93380':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93381':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93382':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93383':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93384':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93385':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93386':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93387':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93388':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93389':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93390':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'93399':
+  :city: BAKERSFIELD
+  :state: CA
+  :county: KERN
+'91706':
+  :city: BALDWIN PARK
+  :state: CA
+  :county: LOS ANGELES
+'91797':
+  :city: BALDWIN PARK
+  :state: CA
+  :county: LOS ANGELES
+'95303':
+  :city: BALLICO
+  :state: CA
+  :county: MERCED
+'95914':
+  :city: BANGOR
+  :state: CA
+  :county: BUTTE
+'92220':
+  :city: BANNING
+  :state: CA
+  :county: RIVERSIDE
+'95304':
+  :city: BANTA
+  :state: CA
+  :county: ''
+'92222':
+  :city: BARD
+  :state: CA
+  :county: RIVERSIDE
+'92311':
+  :city: BARSTOW
+  :state: CA
+  :county: SAN BERNARDINO
+'92312':
+  :city: BARSTOW
+  :state: CA
+  :county: ''
+'93604':
+  :city: BASS LAKE
+  :state: CA
+  :county: MADERA
+'95524':
+  :city: BAYSIDE
+  :state: CA
+  :county: HUMBOLDT
+'92223':
+  :city: BEAUMONT
+  :state: CA
+  :county: RIVERSIDE
+'96129':
+  :city: BECKWOURTH
+  :state: CA
+  :county: ''
+'95915':
+  :city: BELDEN
+  :state: CA
+  :county: ''
+'90201':
+  :city: BELL
+  :state: CA
+  :county: LOS ANGELES
+'90202':
+  :city: BELL GARDENS
+  :state: CA
+  :county: LOS ANGELES
+'96008':
+  :city: BELLA VISTA
+  :state: CA
+  :county: SHASTA
+'90706':
+  :city: BELLFLOWER
+  :state: CA
+  :county: LOS ANGELES
+'90707':
+  :city: BELLFLOWER
+  :state: CA
+  :county: LOS ANGELES
+'94002':
+  :city: BELMONT
+  :state: CA
+  :county: SAN MATEO
+'94003':
+  :city: BELMONT
+  :state: CA
+  :county: SAN MATEO
+'94920':
+  :city: BELVEDERE TIBURON
+  :state: CA
+  :county: MARIN
+'95005':
+  :city: BEN LOMOND
+  :state: CA
+  :county: SANTA CRUZ
+'94510':
+  :city: BENICIA
+  :state: CA
+  :county: SOLANO
+'93512':
+  :city: BENTON
+  :state: CA
+  :county: MONO
+'94701':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94702':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94703':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94704':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94705':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94707':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94708':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94709':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94710':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94712':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'94720':
+  :city: BERKELEY
+  :state: CA
+  :county: ALAMEDA
+'95916':
+  :city: BERRY CREEK
+  :state: CA
+  :county: BUTTE
+'94511':
+  :city: BETHEL ISLAND
+  :state: CA
+  :county: CONTRA COSTA
+'90209':
+  :city: BEVERLY HILLS
+  :state: CA
+  :county: LOS ANGELES
+'90210':
+  :city: BEVERLY HILLS
+  :state: CA
+  :county: LOS ANGELES
+'90211':
+  :city: BEVERLY HILLS
+  :state: CA
+  :county: LOS ANGELES
+'90212':
+  :city: BEVERLY HILLS
+  :state: CA
+  :county: LOS ANGELES
+'90213':
+  :city: BEVERLY HILLS
+  :state: CA
+  :county: LOS ANGELES
+'96009':
+  :city: BIEBER
+  :state: CA
+  :county: LASSEN
+'96010':
+  :city: BIG BAR
+  :state: CA
+  :county: TRINITY
+'92314':
+  :city: BIG BEAR CITY
+  :state: CA
+  :county: SAN BERNARDINO
+'92386':
+  :city: BIG BEAR CITY
+  :state: CA
+  :county: SAN BERNARDINO
+'92315':
+  :city: BIG BEAR LAKE
+  :state: CA
+  :county: ''
+'96011':
+  :city: BIG BEND
+  :state: CA
+  :county: SHASTA
+'93605':
+  :city: BIG CREEK
+  :state: CA
+  :county: ''
+'95305':
+  :city: BIG OAK FLAT
+  :state: CA
+  :county: ''
+'93513':
+  :city: BIG PINE
+  :state: CA
+  :county: INYO
+'93920':
+  :city: BIG SUR
+  :state: CA
+  :county: MONTEREY
+'95917':
+  :city: BIGGS
+  :state: CA
+  :county: BUTTE
+'93606':
+  :city: BIOLA
+  :state: CA
+  :county: ''
+'94512':
+  :city: BIRDS LANDING
+  :state: CA
+  :county: SOLANO
+'93514':
+  :city: BISHOP
+  :state: CA
+  :county: INYO
+'93515':
+  :city: BISHOP
+  :state: CA
+  :county: ''
+'96103':
+  :city: BLAIRSDEN
+  :state: CA
+  :county: PLUMAS
+'95514':
+  :city: BLOCKSBURG
+  :state: CA
+  :county: ''
+'92316':
+  :city: BLOOMINGTON
+  :state: CA
+  :county: SAN BERNARDINO
+'92317':
+  :city: BLUE JAY
+  :state: CA
+  :county: ''
+'95525':
+  :city: BLUE LAKE
+  :state: CA
+  :county: HUMBOLDT
+'92225':
+  :city: BLYTHE
+  :state: CA
+  :county: RIVERSIDE
+'92226':
+  :city: BLYTHE
+  :state: CA
+  :county: ''
+'92280':
+  :city: BLYTHE
+  :state: CA
+  :county: SAN BERNARDINO
+'94922':
+  :city: BODEGA
+  :state: CA
+  :county: SONOMA
+'94923':
+  :city: BODEGA BAY
+  :state: CA
+  :county: SONOMA
+'93205':
+  :city: BODFISH
+  :state: CA
+  :county: KERN
+'94924':
+  :city: BOLINAS
+  :state: CA
+  :county: MARIN
+'91902':
+  :city: BONITA
+  :state: CA
+  :county: ''
+'91908':
+  :city: BONITA
+  :state: CA
+  :county: ''
+'92003':
+  :city: BONSALL
+  :state: CA
+  :county: SAN DIEGO
+'95415':
+  :city: BOONVILLE
+  :state: CA
+  :county: MENDOCINO
+'93516':
+  :city: BORON
+  :state: CA
+  :county: KERN
+'93596':
+  :city: BORON
+  :state: CA
+  :county: ''
+'92004':
+  :city: BORREGO SPRINGS
+  :state: CA
+  :county: SAN DIEGO
+'95006':
+  :city: BOULDER CREEK
+  :state: CA
+  :county: SANTA CRUZ
+'91905':
+  :city: BOULEVARD
+  :state: CA
+  :county: ''
+'95416':
+  :city: BOYES HOT SPRINGS
+  :state: CA
+  :county: SONOMA
+'93426':
+  :city: BRADLEY
+  :state: CA
+  :county: MONTEREY
+'95417':
+  :city: BRANSCOMB
+  :state: CA
+  :county: MENDOCINO
+'92227':
+  :city: BRAWLEY
+  :state: CA
+  :county: IMPERIAL
+'92621':
+  :city: BREA
+  :state: CA
+  :county: ORANGE
+'92821':
+  :city: BREA
+  :state: CA
+  :county: ORANGE
+'92822':
+  :city: BREA
+  :state: CA
+  :county: ORANGE
+'92823':
+  :city: BREA
+  :state: CA
+  :county: ORANGE
+'94513':
+  :city: BRENTWOOD
+  :state: CA
+  :county: CONTRA COSTA
+'93517':
+  :city: BRIDGEPORT
+  :state: CA
+  :county: MONO
+'95526':
+  :city: BRIDGEVILLE
+  :state: CA
+  :county: HUMBOLDT
+'94005':
+  :city: BRISBANE
+  :state: CA
+  :county: SAN MATEO
+'95605':
+  :city: BRODERICK
+  :state: CA
+  :county: YOLO
+'95007':
+  :city: BROOKDALE
+  :state: CA
+  :county: ''
+'95606':
+  :city: BROOKS
+  :state: CA
+  :county: YOLO
+'95918':
+  :city: BROWNS VALLEY
+  :state: CA
+  :county: YUBA
+'95919':
+  :city: BROWNSVILLE
+  :state: CA
+  :county: YUBA
+'92318':
+  :city: BRYN MAWR
+  :state: CA
+  :county: ''
+'93427':
+  :city: BUELLTON
+  :state: CA
+  :county: SANTA BARBARA
+'90620':
+  :city: BUENA PARK
+  :state: CA
+  :county: ORANGE
+'90621':
+  :city: BUENA PARK
+  :state: CA
+  :county: ORANGE
+'90622':
+  :city: BUENA PARK
+  :state: CA
+  :county: ORANGE
+'90623':
+  :city: BUENA PARK
+  :state: CA
+  :county: ORANGE
+'90624':
+  :city: BUENA PARK
+  :state: CA
+  :county: ORANGE
+'91501':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91502':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91503':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91504':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91505':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91506':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91507':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91508':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91510':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91521':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91522':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91523':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'91526':
+  :city: BURBANK
+  :state: CA
+  :county: LOS ANGELES
+'94010':
+  :city: BURLINGAME
+  :state: CA
+  :county: SAN MATEO
+'94011':
+  :city: BURLINGAME
+  :state: CA
+  :county: SAN MATEO
+'94012':
+  :city: BURLINGAME
+  :state: CA
+  :county: SAN MATEO
+'96013':
+  :city: BURNEY
+  :state: CA
+  :county: SHASTA
+'95527':
+  :city: BURNT RANCH
+  :state: CA
+  :county: TRINITY
+'93607':
+  :city: BURREL
+  :state: CA
+  :county: ''
+'95225':
+  :city: BURSON
+  :state: CA
+  :county: ''
+'95920':
+  :city: BUTTE CITY
+  :state: CA
+  :county: GLENN
+'93206':
+  :city: BUTTONWILLOW
+  :state: CA
+  :county: KERN
+'94514':
+  :city: BYRON
+  :state: CA
+  :county: CONTRA COSTA
+'92230':
+  :city: CABAZON
+  :state: CA
+  :county: RIVERSIDE
+'92282':
+  :city: CABAZON
+  :state: CA
+  :county: RIVERSIDE
+'92319':
+  :city: CADIZ
+  :state: CA
+  :county: ''
+'91302':
+  :city: CALABASAS
+  :state: CA
+  :county: LOS ANGELES
+'91372':
+  :city: CALABASAS
+  :state: CA
+  :county: LOS ANGELES
+'92231':
+  :city: CALEXICO
+  :state: CA
+  :county: IMPERIAL
+'92232':
+  :city: CALEXICO
+  :state: CA
+  :county: ''
+'93518':
+  :city: CALIENTE
+  :state: CA
+  :county: KERN
+'93504':
+  :city: CALIFORNIA CITY
+  :state: CA
+  :county: ''
+'93505':
+  :city: CALIFORNIA CITY
+  :state: CA
+  :county: KERN
+'93207':
+  :city: CALIFORNIA HOT SPRIN
+  :state: CA
+  :county: TULARE
+'92320':
+  :city: CALIMESA
+  :state: CA
+  :county: RIVERSIDE
+'92233':
+  :city: CALIPATRIA
+  :state: CA
+  :county: IMPERIAL
+'94515':
+  :city: CALISTOGA
+  :state: CA
+  :county: NAPA
+'96014':
+  :city: CALLAHAN
+  :state: CA
+  :county: SISKIYOU
+'95418':
+  :city: CALPELLA
+  :state: CA
+  :county: MENDOCINO
+'93010':
+  :city: CAMARILLO
+  :state: CA
+  :county: VENTURA
+'93011':
+  :city: CAMARILLO
+  :state: CA
+  :county: VENTURA
+'93012':
+  :city: CAMARILLO
+  :state: CA
+  :county: VENTURA
+'93428':
+  :city: CAMBRIA
+  :state: CA
+  :county: SAN LUIS OBISPO
+'95709':
+  :city: CAMINO
+  :state: CA
+  :county: EL DORADO
+'95419':
+  :city: CAMP MEEKER
+  :state: CA
+  :county: SONOMA
+'93208':
+  :city: CAMP NELSON
+  :state: CA
+  :county: TULARE
+'95008':
+  :city: CAMPBELL
+  :state: CA
+  :county: SANTA CLARA
+'95009':
+  :city: CAMPBELL
+  :state: CA
+  :county: ''
+'95011':
+  :city: CAMPBELL
+  :state: CA
+  :county: ''
+'91906':
+  :city: CAMPO
+  :state: CA
+  :county: ''
+'95922':
+  :city: CAMPTONVILLE
+  :state: CA
+  :county: YUBA
+'96015':
+  :city: CANBY
+  :state: CA
+  :county: MODOC
+'91303':
+  :city: CANOGA PARK
+  :state: CA
+  :county: LOS ANGELES
+'91304':
+  :city: CANOGA PARK
+  :state: CA
+  :county: LOS ANGELES
+'91305':
+  :city: CANOGA PARK
+  :state: CA
+  :county: LOS ANGELES
+'91307':
+  :city: CANOGA PARK
+  :state: CA
+  :county: LOS ANGELES
+'91309':
+  :city: CANOGA PARK
+  :state: CA
+  :county: LOS ANGELES
+'93519':
+  :city: CANTIL
+  :state: CA
+  :county: ''
+'93608':
+  :city: CANTUA CREEK
+  :state: CA
+  :county: FRESNO
+'94516':
+  :city: CANYON
+  :state: CA
+  :county: ''
+'91351':
+  :city: CANYON COUNTRY
+  :state: CA
+  :county: LOS ANGELES
+'91386':
+  :city: CANYON COUNTRY
+  :state: CA
+  :county: LOS ANGELES
+'95923':
+  :city: CANYONDAM
+  :state: CA
+  :county: PLUMAS
+'95607':
+  :city: CAPAY
+  :state: CA
+  :county: YOLO
+'92624':
+  :city: CAPISTRANO BEACH
+  :state: CA
+  :county: ORANGE
+'95010':
+  :city: CAPITOLA
+  :state: CA
+  :county: SANTA CRUZ
+'92007':
+  :city: CARDIFF BY THE SEA
+  :state: CA
+  :county: SAN DIEGO
+'95528':
+  :city: CARLOTTA
+  :state: CA
+  :county: HUMBOLDT
+'92008':
+  :city: CARLSBAD
+  :state: CA
+  :county: SAN DIEGO
+'92009':
+  :city: CARLSBAD
+  :state: CA
+  :county: SAN DIEGO
+'92018':
+  :city: CARLSBAD
+  :state: CA
+  :county: SAN DIEGO
+'93921':
+  :city: CARMEL
+  :state: CA
+  :county: MONTEREY
+'93922':
+  :city: CARMEL
+  :state: CA
+  :county: MONTEREY
+'93923':
+  :city: CARMEL
+  :state: CA
+  :county: MONTEREY
+'93924':
+  :city: CARMEL VALLEY
+  :state: CA
+  :county: MONTEREY
+'95608':
+  :city: CARMICHAEL
+  :state: CA
+  :county: SACRAMENTO
+'95609':
+  :city: CARMICHAEL
+  :state: CA
+  :county: ''
+'96140':
+  :city: CARNELIAN BAY
+  :state: CA
+  :county: ''
+'93013':
+  :city: CARPINTERIA
+  :state: CA
+  :county: SANTA BARBARA
+'93014':
+  :city: CARPINTERIA
+  :state: CA
+  :county: SANTA BARBARA
+'90745':
+  :city: CARSON
+  :state: CA
+  :county: LOS ANGELES
+'90746':
+  :city: CARSON
+  :state: CA
+  :county: LOS ANGELES
+'90747':
+  :city: CARSON
+  :state: CA
+  :county: LOS ANGELES
+'90749':
+  :city: CARSON
+  :state: CA
+  :county: LOS ANGELES
+'93609':
+  :city: CARUTHERS
+  :state: CA
+  :county: FRESNO
+'93429':
+  :city: CASMALIA
+  :state: CA
+  :county: ''
+'96016':
+  :city: CASSEL
+  :state: CA
+  :county: SHASTA
+'91310':
+  :city: CASTAIC
+  :state: CA
+  :county: LOS ANGELES
+'91384':
+  :city: CASTAIC
+  :state: CA
+  :county: LOS ANGELES
+'96017':
+  :city: CASTELLA
+  :state: CA
+  :county: SHASTA
+'95342':
+  :city: CASTLE AFB
+  :state: CA
+  :county: MERCED
+'94546':
+  :city: CASTRO VALLEY
+  :state: CA
+  :county: ALAMEDA
+'95012':
+  :city: CASTROVILLE
+  :state: CA
+  :county: MONTEREY
+'92234':
+  :city: CATHEDRAL CITY
+  :state: CA
+  :county: RIVERSIDE
+'92235':
+  :city: CATHEDRAL CITY
+  :state: CA
+  :county: ''
+'95306':
+  :city: CATHEYS VALLEY
+  :state: CA
+  :county: MARIPOSA
+'93430':
+  :city: CAYUCOS
+  :state: CA
+  :county: SAN LUIS OBISPO
+'95421':
+  :city: CAZADERO
+  :state: CA
+  :county: SONOMA
+'92321':
+  :city: CEDAR GLEN
+  :state: CA
+  :county: ''
+'95924':
+  :city: CEDAR RIDGE
+  :state: CA
+  :county: ''
+'92322':
+  :city: CEDARPINES PARK
+  :state: CA
+  :county: ''
+'96104':
+  :city: CEDARVILLE
+  :state: CA
+  :county: MODOC
+'96019':
+  :city: CENTRAL VALLEY
+  :state: CA
+  :county: SHASTA
+'95307':
+  :city: CERES
+  :state: CA
+  :county: STANISLAUS
+'90703':
+  :city: CERRITOS
+  :state: CA
+  :county: LOS ANGELES
+'95925':
+  :city: CHALLENGE
+  :state: CA
+  :county: YUBA
+'91311':
+  :city: CHATSWORTH
+  :state: CA
+  :county: LOS ANGELES
+'91312':
+  :city: CHATSWORTH
+  :state: CA
+  :county: LOS ANGELES
+'91313':
+  :city: CHATSWORTH
+  :state: CA
+  :county: LOS ANGELES
+'96020':
+  :city: CHESTER
+  :state: CA
+  :county: PLUMAS
+'95712':
+  :city: CHICAGO PARK
+  :state: CA
+  :county: ''
+'95926':
+  :city: CHICO
+  :state: CA
+  :county: BUTTE
+'95927':
+  :city: CHICO
+  :state: CA
+  :county: ''
+'95928':
+  :city: CHICO
+  :state: CA
+  :county: BUTTE
+'95929':
+  :city: CHICO
+  :state: CA
+  :county: BUTTE
+'95973':
+  :city: CHICO
+  :state: CA
+  :county: ''
+'95976':
+  :city: CHICO
+  :state: CA
+  :county: BUTTE
+'96105':
+  :city: CHILCOOT
+  :state: CA
+  :county: PLUMAS
+'95309':
+  :city: CHINESE CAMP
+  :state: CA
+  :county: ''
+'91708':
+  :city: CHINO
+  :state: CA
+  :county: ''
+'91709':
+  :city: CHINO
+  :state: CA
+  :county: SAN BERNARDINO
+'91710':
+  :city: CHINO
+  :state: CA
+  :county: SAN BERNARDINO
+'93431':
+  :city: CHOLAME
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93610':
+  :city: CHOWCHILLA
+  :state: CA
+  :county: MADERA
+'93925':
+  :city: CHUALAR
+  :state: CA
+  :county: MONTEREY
+'91909':
+  :city: CHULA VISTA
+  :state: CA
+  :county: ''
+'91910':
+  :city: CHULA VISTA
+  :state: CA
+  :county: ''
+'91911':
+  :city: CHULA VISTA
+  :state: CA
+  :county: ''
+'91912':
+  :city: CHULA VISTA
+  :state: CA
+  :county: ''
+'91913':
+  :city: CHULA VISTA
+  :state: CA
+  :county: ''
+'91914':
+  :city: CHULA VISTA
+  :state: CA
+  :county: ''
+'91915':
+  :city: CHULA VISTA
+  :state: CA
+  :county: ''
+'91921':
+  :city: CHULA VISTA
+  :state: CA
+  :county: ''
+'92323':
+  :city: CIMA
+  :state: CA
+  :county: ''
+'95610':
+  :city: CITRUS HEIGHTS
+  :state: CA
+  :county: SACRAMENTO
+'95611':
+  :city: CITRUS HEIGHTS
+  :state: CA
+  :county: ''
+'95621':
+  :city: CITRUS HEIGHTS
+  :state: CA
+  :county: SACRAMENTO
+'91714':
+  :city: CITY OF INDUSTRY
+  :state: CA
+  :county: ''
+'91715':
+  :city: CITY OF INDUSTRY
+  :state: CA
+  :county: ''
+'91716':
+  :city: CITY OF INDUSTRY
+  :state: CA
+  :county: ''
+'91711':
+  :city: CLAREMONT
+  :state: CA
+  :county: LOS ANGELES
+'95612':
+  :city: CLARKSBURG
+  :state: CA
+  :county: YOLO
+'94517':
+  :city: CLAYTON
+  :state: CA
+  :county: CONTRA COSTA
+'95422':
+  :city: CLEARLAKE
+  :state: CA
+  :county: LAKE
+'95423':
+  :city: CLEARLAKE OAKS
+  :state: CA
+  :county: LAKE
+'95424':
+  :city: CLEARLAKE PARK
+  :state: CA
+  :county: LAKE
+'95227':
+  :city: CLEMENTS
+  :state: CA
+  :county: ''
+'96106':
+  :city: CLIO
+  :state: CA
+  :county: ''
+'95930':
+  :city: CLIPPER MILLS
+  :state: CA
+  :county: BUTTE
+'95425':
+  :city: CLOVERDALE
+  :state: CA
+  :county: SONOMA
+'93611':
+  :city: CLOVIS
+  :state: CA
+  :county: FRESNO
+'93612':
+  :city: CLOVIS
+  :state: CA
+  :county: FRESNO
+'93613':
+  :city: CLOVIS
+  :state: CA
+  :county: FRESNO
+'92236':
+  :city: COACHELLA
+  :state: CA
+  :county: RIVERSIDE
+'93210':
+  :city: COALINGA
+  :state: CA
+  :county: FRESNO
+'93614':
+  :city: COARSEGOLD
+  :state: CA
+  :county: MADERA
+'95426':
+  :city: COBB
+  :state: CA
+  :county: LAKE
+'96107':
+  :city: COLEVILLE
+  :state: CA
+  :county: MONO
+'95713':
+  :city: COLFAX
+  :state: CA
+  :county: PLACER
+'95931':
+  :city: COLLEGE CITY
+  :state: CA
+  :county: ''
+'95613':
+  :city: COLOMA
+  :state: CA
+  :county: ''
+'92324':
+  :city: COLTON
+  :state: CA
+  :county: SAN BERNARDINO
+'95310':
+  :city: COLUMBIA
+  :state: CA
+  :county: TUOLUMNE
+'95932':
+  :city: COLUSA
+  :state: CA
+  :county: COLUSA
+'95427':
+  :city: COMPTCHE
+  :state: CA
+  :county: MENDOCINO
+'90220':
+  :city: COMPTON
+  :state: CA
+  :county: LOS ANGELES
+'90221':
+  :city: COMPTON
+  :state: CA
+  :county: LOS ANGELES
+'90222':
+  :city: COMPTON
+  :state: CA
+  :county: LOS ANGELES
+'90223':
+  :city: COMPTON
+  :state: CA
+  :county: LOS ANGELES
+'90224':
+  :city: COMPTON
+  :state: CA
+  :county: LOS ANGELES
+'94518':
+  :city: CONCORD
+  :state: CA
+  :county: CONTRA COSTA
+'94519':
+  :city: CONCORD
+  :state: CA
+  :county: CONTRA COSTA
+'94520':
+  :city: CONCORD
+  :state: CA
+  :county: CONTRA COSTA
+'94521':
+  :city: CONCORD
+  :state: CA
+  :county: CONTRA COSTA
+'94522':
+  :city: CONCORD
+  :state: CA
+  :county: CONTRA COSTA
+'94524':
+  :city: CONCORD
+  :state: CA
+  :county: CONTRA COSTA
+'94527':
+  :city: CONCORD
+  :state: CA
+  :county: CONTRA COSTA
+'94529':
+  :city: CONCORD
+  :state: CA
+  :county: CONTRA COSTA
+'95614':
+  :city: COOL
+  :state: CA
+  :county: EL DORADO
+'95228':
+  :city: COPPEROPOLIS
+  :state: CA
+  :county: CALAVERAS
+'93212':
+  :city: CORCORAN
+  :state: CA
+  :county: KINGS
+'96021':
+  :city: CORNING
+  :state: CA
+  :county: TEHAMA
+'91718':
+  :city: CORONA
+  :state: CA
+  :county: RIVERSIDE
+'91719':
+  :city: CORONA
+  :state: CA
+  :county: RIVERSIDE
+'91720':
+  :city: CORONA
+  :state: CA
+  :county: RIVERSIDE
+'92625':
+  :city: CORONA DEL MAR
+  :state: CA
+  :county: ORANGE
+'92118':
+  :city: CORONADO
+  :state: CA
+  :county: SAN DIEGO
+'92178':
+  :city: CORONADO
+  :state: CA
+  :county: SAN DIEGO
+'94925':
+  :city: CORTE MADERA
+  :state: CA
+  :county: MARIN
+'94976':
+  :city: CORTE MADERA
+  :state: CA
+  :county: ''
+'92626':
+  :city: COSTA MESA
+  :state: CA
+  :county: ORANGE
+'92627':
+  :city: COSTA MESA
+  :state: CA
+  :county: ORANGE
+'92628':
+  :city: COSTA MESA
+  :state: CA
+  :county: ORANGE
+'94926':
+  :city: COTATI
+  :state: CA
+  :county: SONOMA
+'94931':
+  :city: COTATI
+  :state: CA
+  :county: ''
+'96022':
+  :city: COTTONWOOD
+  :state: CA
+  :county: SHASTA
+'95311':
+  :city: COULTERVILLE
+  :state: CA
+  :county: MARIPOSA
+'95615':
+  :city: COURTLAND
+  :state: CA
+  :county: SACRAMENTO
+'95428':
+  :city: COVELO
+  :state: CA
+  :county: MENDOCINO
+'91722':
+  :city: COVINA
+  :state: CA
+  :county: LOS ANGELES
+'91723':
+  :city: COVINA
+  :state: CA
+  :county: LOS ANGELES
+'91724':
+  :city: COVINA
+  :state: CA
+  :county: LOS ANGELES
+'95013':
+  :city: COYOTE
+  :state: CA
+  :county: ''
+'95531':
+  :city: CRESCENT CITY
+  :state: CA
+  :county: DEL NORTE
+'95532':
+  :city: CRESCENT CITY
+  :state: CA
+  :county: ''
+'95538':
+  :city: CRESCENT CITY
+  :state: CA
+  :county: DEL NORTE
+'95934':
+  :city: CRESCENT MILLS
+  :state: CA
+  :county: PLUMAS
+'95312':
+  :city: CRESSEY
+  :state: CA
+  :county: ''
+'92326':
+  :city: CREST PARK
+  :state: CA
+  :county: ''
+'92325':
+  :city: CRESTLINE
+  :state: CA
+  :county: ''
+'93432':
+  :city: CRESTON
+  :state: CA
+  :county: SAN LUIS OBISPO
+'94525':
+  :city: CROCKETT
+  :state: CA
+  :county: CONTRA COSTA
+'95313':
+  :city: CROWS LANDING
+  :state: CA
+  :county: STANISLAUS
+'90230':
+  :city: CULVER CITY
+  :state: CA
+  :county: LOS ANGELES
+'90231':
+  :city: CULVER CITY
+  :state: CA
+  :county: LOS ANGELES
+'90232':
+  :city: CULVER CITY
+  :state: CA
+  :county: LOS ANGELES
+'90233':
+  :city: CULVER CITY
+  :state: CA
+  :county: LOS ANGELES
+'95014':
+  :city: CUPERTINO
+  :state: CA
+  :county: SANTA CLARA
+'95015':
+  :city: CUPERTINO
+  :state: CA
+  :county: SANTA CLARA
+'95016':
+  :city: CUPERTINO
+  :state: CA
+  :county: SANTA CLARA
+'93615':
+  :city: CUTLER
+  :state: CA
+  :county: TULARE
+'93214':
+  :city: CUYAMA
+  :state: CA
+  :county: SANTA BARBARA
+'90630':
+  :city: CYPRESS
+  :state: CA
+  :county: ORANGE
+'92327':
+  :city: DAGGETT
+  :state: CA
+  :county: SAN BERNARDINO
+'94014':
+  :city: DALY CITY
+  :state: CA
+  :county: SAN MATEO
+'94015':
+  :city: DALY CITY
+  :state: CA
+  :county: SAN MATEO
+'94016':
+  :city: DALY CITY
+  :state: CA
+  :county: SAN MATEO
+'94017':
+  :city: DALY CITY
+  :state: CA
+  :county: SAN MATEO
+'92629':
+  :city: DANA POINT
+  :state: CA
+  :county: ORANGE
+'94506':
+  :city: DANVILLE
+  :state: CA
+  :county: CONTRA COSTA
+'94526':
+  :city: DANVILLE
+  :state: CA
+  :county: CONTRA COSTA
+'95314':
+  :city: DARDANELLE
+  :state: CA
+  :county: ''
+'93522':
+  :city: DARWIN
+  :state: CA
+  :county: ''
+'95017':
+  :city: DAVENPORT
+  :state: CA
+  :county: SANTA CRUZ
+'95616':
+  :city: DAVIS
+  :state: CA
+  :county: YOLO
+'95617':
+  :city: DAVIS
+  :state: CA
+  :county: ''
+'96108':
+  :city: DAVIS CREEK
+  :state: CA
+  :county: MODOC
+'92328':
+  :city: DEATH VALLEY
+  :state: CA
+  :county: INYO
+'94576':
+  :city: DEER PARK
+  :state: CA
+  :county: NAPA
+'92014':
+  :city: DEL MAR
+  :state: CA
+  :county: SAN DIEGO
+'93616':
+  :city: DEL REY
+  :state: CA
+  :county: FRESNO
+'93215':
+  :city: DELANO
+  :state: CA
+  :county: KERN
+'93216':
+  :city: DELANO
+  :state: CA
+  :county: ''
+'95315':
+  :city: DELHI
+  :state: CA
+  :county: MERCED
+'95316':
+  :city: DENAIR
+  :state: CA
+  :county: STANISLAUS
+'91916':
+  :city: DESCANSO
+  :state: CA
+  :county: ''
+'92239':
+  :city: DESERT CENTER
+  :state: CA
+  :county: ''
+'92240':
+  :city: DESERT HOT SPRINGS
+  :state: CA
+  :county: RIVERSIDE
+'92241':
+  :city: DESERT HOT SPRINGS
+  :state: CA
+  :county: ''
+'94528':
+  :city: DIABLO
+  :state: CA
+  :county: CONTRA COSTA
+'95619':
+  :city: DIAMOND SPRINGS
+  :state: CA
+  :county: EL DORADO
+'94929':
+  :city: DILLON BEACH
+  :state: CA
+  :county: MARIN
+'93618':
+  :city: DINUBA
+  :state: CA
+  :county: TULARE
+'95620':
+  :city: DIXON
+  :state: CA
+  :county: SOLANO
+'95935':
+  :city: DOBBINS
+  :state: CA
+  :county: YUBA
+'96023':
+  :city: DORRIS
+  :state: CA
+  :county: SISKIYOU
+'93620':
+  :city: DOS PALOS
+  :state: CA
+  :county: MERCED
+'95429':
+  :city: DOS RIOS
+  :state: CA
+  :county: MENDOCINO
+'96024':
+  :city: DOUGLAS CITY
+  :state: CA
+  :county: TRINITY
+'95229':
+  :city: DOUGLAS FLAT
+  :state: CA
+  :county: ''
+'90239':
+  :city: DOWNEY
+  :state: CA
+  :county: LOS ANGELES
+'90240':
+  :city: DOWNEY
+  :state: CA
+  :county: LOS ANGELES
+'90241':
+  :city: DOWNEY
+  :state: CA
+  :county: LOS ANGELES
+'90242':
+  :city: DOWNEY
+  :state: CA
+  :county: LOS ANGELES
+'95936':
+  :city: DOWNIEVILLE
+  :state: CA
+  :county: ''
+'96109':
+  :city: DOYLE
+  :state: CA
+  :county: LASSEN
+'95699':
+  :city: DRYTOWN
+  :state: CA
+  :county: ''
+'91009':
+  :city: DUARTE
+  :state: CA
+  :county: LOS ANGELES
+'91010':
+  :city: DUARTE
+  :state: CA
+  :county: LOS ANGELES
+'94568':
+  :city: DUBLIN
+  :state: CA
+  :county: ALAMEDA
+'93218':
+  :city: DUCOR
+  :state: CA
+  :county: ''
+'91917':
+  :city: DULZURA
+  :state: CA
+  :county: ''
+'95430':
+  :city: DUNCANS MILLS
+  :state: CA
+  :county: SONOMA
+'93621':
+  :city: DUNLAP
+  :state: CA
+  :county: FRESNO
+'95937':
+  :city: DUNNIGAN
+  :state: CA
+  :county: ''
+'96025':
+  :city: DUNSMUIR
+  :state: CA
+  :county: SISKIYOU
+'95938':
+  :city: DURHAM
+  :state: CA
+  :county: BUTTE
+'95714':
+  :city: DUTCH FLAT
+  :state: CA
+  :county: ''
+'96110':
+  :city: EAGLEVILLE
+  :state: CA
+  :county: ''
+'93219':
+  :city: EARLIMART
+  :state: CA
+  :county: TULARE
+'92242':
+  :city: EARP
+  :state: CA
+  :county: SAN BERNARDINO
+'92650':
+  :city: EAST IRVINE
+  :state: CA
+  :county: ORANGE
+'93220':
+  :city: EDISON
+  :state: CA
+  :county: ''
+'93523':
+  :city: EDWARDS
+  :state: CA
+  :county: KERN
+'93524':
+  :city: EDWARDS
+  :state: CA
+  :county: KERN
+'92019':
+  :city: EL CAJON
+  :state: CA
+  :county: SAN DIEGO
+'92020':
+  :city: EL CAJON
+  :state: CA
+  :county: SAN DIEGO
+'92021':
+  :city: EL CAJON
+  :state: CA
+  :county: SAN DIEGO
+'92022':
+  :city: EL CAJON
+  :state: CA
+  :county: SAN DIEGO
+'92090':
+  :city: EL CAJON
+  :state: CA
+  :county: SAN DIEGO
+'92243':
+  :city: EL CENTRO
+  :state: CA
+  :county: IMPERIAL
+'92244':
+  :city: EL CENTRO
+  :state: CA
+  :county: ''
+'94530':
+  :city: EL CERRITO
+  :state: CA
+  :county: CONTRA COSTA
+'95623':
+  :city: EL DORADO
+  :state: CA
+  :county: ''
+'95762':
+  :city: EL DORADO HILLS
+  :state: CA
+  :county: ''
+'94018':
+  :city: EL GRANADA
+  :state: CA
+  :county: SAN MATEO
+'95618':
+  :city: EL MACERO
+  :state: CA
+  :county: YOLO
+'91731':
+  :city: EL MONTE
+  :state: CA
+  :county: LOS ANGELES
+'91732':
+  :city: EL MONTE
+  :state: CA
+  :county: LOS ANGELES
+'91733':
+  :city: EL MONTE
+  :state: CA
+  :county: LOS ANGELES
+'91734':
+  :city: EL MONTE
+  :state: CA
+  :county: LOS ANGELES
+'91735':
+  :city: EL MONTE
+  :state: CA
+  :county: LOS ANGELES
+'95317':
+  :city: EL NIDO
+  :state: CA
+  :county: MERCED
+'95318':
+  :city: EL PORTAL
+  :state: CA
+  :county: ''
+'90245':
+  :city: EL SEGUNDO
+  :state: CA
+  :county: LOS ANGELES
+'94803':
+  :city: EL SOBRANTE
+  :state: CA
+  :county: CONTRA COSTA
+'94820':
+  :city: EL SOBRANTE
+  :state: CA
+  :county: CONTRA COSTA
+'92630':
+  :city: EL TORO
+  :state: CA
+  :county: ORANGE
+'95433':
+  :city: EL VERANO
+  :state: CA
+  :county: SONOMA
+'95431':
+  :city: ELDRIDGE
+  :state: CA
+  :county: SONOMA
+'95432':
+  :city: ELK
+  :state: CA
+  :county: MENDOCINO
+'95939':
+  :city: ELK CREEK
+  :state: CA
+  :county: GLENN
+'95624':
+  :city: ELK GROVE
+  :state: CA
+  :county: SACRAMENTO
+'95757':
+  :city: ELK GROVE
+  :state: CA
+  :county: SACRAMENTO
+'95758':
+  :city: ELK GROVE
+  :state: CA
+  :county: SACRAMENTO
+'95759':
+  :city: ELK GROVE
+  :state: CA
+  :county: ''
+'95625':
+  :city: ELMIRA
+  :state: CA
+  :county: ''
+'95626':
+  :city: ELVERTA
+  :state: CA
+  :county: SACRAMENTO
+'94608':
+  :city: EMERYVILLE
+  :state: CA
+  :county: ALAMEDA
+'94662':
+  :city: EMERYVILLE
+  :state: CA
+  :county: ALAMEDA
+'95715':
+  :city: EMIGRANT GAP
+  :state: CA
+  :county: ''
+'95319':
+  :city: EMPIRE
+  :state: CA
+  :county: ''
+'92023':
+  :city: ENCINITAS
+  :state: CA
+  :county: SAN DIEGO
+'92024':
+  :city: ENCINITAS
+  :state: CA
+  :county: SAN DIEGO
+'91316':
+  :city: ENCINO
+  :state: CA
+  :county: LOS ANGELES
+'91416':
+  :city: ENCINO
+  :state: CA
+  :county: LOS ANGELES
+'91426':
+  :city: ENCINO
+  :state: CA
+  :county: LOS ANGELES
+'91436':
+  :city: ENCINO
+  :state: CA
+  :county: LOS ANGELES
+'95320':
+  :city: ESCALON
+  :state: CA
+  :county: SAN JOAQUIN
+'92025':
+  :city: ESCONDIDO
+  :state: CA
+  :county: SAN DIEGO
+'92026':
+  :city: ESCONDIDO
+  :state: CA
+  :county: SAN DIEGO
+'92027':
+  :city: ESCONDIDO
+  :state: CA
+  :county: SAN DIEGO
+'92029':
+  :city: ESCONDIDO
+  :state: CA
+  :county: SAN DIEGO
+'92030':
+  :city: ESCONDIDO
+  :state: CA
+  :county: SAN DIEGO
+'92033':
+  :city: ESCONDIDO
+  :state: CA
+  :county: SAN DIEGO
+'92046':
+  :city: ESCONDIDO
+  :state: CA
+  :county: SAN DIEGO
+'95627':
+  :city: ESPARTO
+  :state: CA
+  :county: YOLO
+'92332':
+  :city: ESSEX
+  :state: CA
+  :county: SAN BERNARDINO
+'91739':
+  :city: ETIWANDA
+  :state: CA
+  :county: SAN BERNARDINO
+'96027':
+  :city: ETNA
+  :state: CA
+  :county: SISKIYOU
+'95501':
+  :city: EUREKA
+  :state: CA
+  :county: HUMBOLDT
+'95502':
+  :city: EUREKA
+  :state: CA
+  :county: HUMBOLDT
+'95503':
+  :city: EUREKA
+  :state: CA
+  :county: HUMBOLDT
+'95534':
+  :city: EUREKA
+  :state: CA
+  :county: HUMBOLDT
+'93221':
+  :city: EXETER
+  :state: CA
+  :county: TULARE
+'95628':
+  :city: FAIR OAKS
+  :state: CA
+  :county: SACRAMENTO
+'94930':
+  :city: FAIRFAX
+  :state: CA
+  :county: MARIN
+'94978':
+  :city: FAIRFAX
+  :state: CA
+  :county: ''
+'94533':
+  :city: FAIRFIELD
+  :state: CA
+  :county: SOLANO
+'94535':
+  :city: FAIRFIELD
+  :state: CA
+  :county: SOLANO
+'96028':
+  :city: FALL RIVER MILLS
+  :state: CA
+  :county: SHASTA
+'92028':
+  :city: FALLBROOK
+  :state: CA
+  :county: SAN DIEGO
+'92088':
+  :city: FALLBROOK
+  :state: CA
+  :county: SAN DIEGO
+'93223':
+  :city: FARMERSVILLE
+  :state: CA
+  :county: TULARE
+'95230':
+  :city: FARMINGTON
+  :state: CA
+  :county: SAN JOAQUIN
+'92333':
+  :city: FAWNSKIN
+  :state: CA
+  :county: ''
+'95940':
+  :city: FEATHER FALLS
+  :state: CA
+  :county: ''
+'93224':
+  :city: FELLOWS
+  :state: CA
+  :county: KERN
+'95018':
+  :city: FELTON
+  :state: CA
+  :county: SANTA CRUZ
+'95536':
+  :city: FERNDALE
+  :state: CA
+  :county: HUMBOLDT
+'95629':
+  :city: FIDDLETOWN
+  :state: CA
+  :county: AMADOR
+'95537':
+  :city: FIELDS LANDING
+  :state: CA
+  :county: HUMBOLDT
+'93015':
+  :city: FILLMORE
+  :state: CA
+  :county: VENTURA
+'93016':
+  :city: FILLMORE
+  :state: CA
+  :county: VENTURA
+'95435':
+  :city: FINLEY
+  :state: CA
+  :county: LAKE
+'93622':
+  :city: FIREBAUGH
+  :state: CA
+  :county: FRESNO
+'93623':
+  :city: FISH CAMP
+  :state: CA
+  :county: ''
+'93624':
+  :city: FIVE POINTS
+  :state: CA
+  :county: ''
+'96111':
+  :city: FLORISTON
+  :state: CA
+  :county: ''
+'96029':
+  :city: FLOURNOY
+  :state: CA
+  :county: TEHAMA
+'95630':
+  :city: FOLSOM
+  :state: CA
+  :county: SACRAMENTO
+'95763':
+  :city: FOLSOM
+  :state: CA
+  :county: ''
+'92334':
+  :city: FONTANA
+  :state: CA
+  :county: ''
+'92335':
+  :city: FONTANA
+  :state: CA
+  :county: SAN BERNARDINO
+'92336':
+  :city: FONTANA
+  :state: CA
+  :county: SAN BERNARDINO
+'92337':
+  :city: FONTANA
+  :state: CA
+  :county: ''
+'92610':
+  :city: FOOTHILL RANCH
+  :state: CA
+  :county: ORANGE
+'95941':
+  :city: FORBESTOWN
+  :state: CA
+  :county: BUTTE
+'92339':
+  :city: FOREST FALLS
+  :state: CA
+  :county: SAN BERNARDINO
+'94933':
+  :city: FOREST KNOLLS
+  :state: CA
+  :county: MARIN
+'95942':
+  :city: FOREST RANCH
+  :state: CA
+  :county: BUTTE
+'95631':
+  :city: FORESTHILL
+  :state: CA
+  :county: PLACER
+'95436':
+  :city: FORESTVILLE
+  :state: CA
+  :county: SONOMA
+'96031':
+  :city: FORKS OF SALMON
+  :state: CA
+  :county: SISKIYOU
+'96112':
+  :city: FORT BIDWELL
+  :state: CA
+  :county: MODOC
+'95420':
+  :city: FORT BRAGG
+  :state: CA
+  :county: MENDOCINO
+'95437':
+  :city: FORT BRAGG
+  :state: CA
+  :county: MENDOCINO
+'92310':
+  :city: FORT IRWIN
+  :state: CA
+  :county: SAN BERNARDINO
+'96032':
+  :city: FORT JONES
+  :state: CA
+  :county: SISKIYOU
+'93941':
+  :city: FORT ORD
+  :state: CA
+  :county: MONTEREY
+'95540':
+  :city: FORTUNA
+  :state: CA
+  :county: HUMBOLDT
+'92708':
+  :city: FOUNTAIN VALLEY
+  :state: CA
+  :county: ORANGE
+'92728':
+  :city: FOUNTAIN VALLEY
+  :state: CA
+  :county: ORANGE
+'93625':
+  :city: FOWLER
+  :state: CA
+  :county: FRESNO
+'93222':
+  :city: FRAZIER PARK
+  :state: CA
+  :county: ''
+'93225':
+  :city: FRAZIER PARK
+  :state: CA
+  :county: KERN
+'95019':
+  :city: FREEDOM
+  :state: CA
+  :county: SANTA CRUZ
+'94536':
+  :city: FREMONT
+  :state: CA
+  :county: ALAMEDA
+'94537':
+  :city: FREMONT
+  :state: CA
+  :county: ALAMEDA
+'94538':
+  :city: FREMONT
+  :state: CA
+  :county: ALAMEDA
+'94539':
+  :city: FREMONT
+  :state: CA
+  :county: ALAMEDA
+'94555':
+  :city: FREMONT
+  :state: CA
+  :county: ALAMEDA
+'95231':
+  :city: FRENCH CAMP
+  :state: CA
+  :county: SAN JOAQUIN
+'96033':
+  :city: FRENCH GULCH
+  :state: CA
+  :county: SHASTA
+'93701':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93702':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93703':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93704':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93705':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93706':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93707':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93708':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93709':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93710':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93711':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93712':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93714':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93715':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93716':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93717':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93718':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93720':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93721':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93722':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93723':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93724':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93725':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93726':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93727':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93728':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93729':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93740':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93741':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93744':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93745':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93747':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93750':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93755':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93759':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93760':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93761':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93762':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93764':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93765':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93771':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93772':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93773':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93774':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93775':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93776':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93777':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93778':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93779':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93780':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93782':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93784':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93786':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93790':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93791':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93792':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93793':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93794':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93844':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93888':
+  :city: FRESNO
+  :state: CA
+  :county: FRESNO
+'93626':
+  :city: FRIANT
+  :state: CA
+  :county: FRESNO
+'92631':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92632':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92633':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92635':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92831':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92832':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92833':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92834':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92835':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92836':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92837':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'92838':
+  :city: FULLERTON
+  :state: CA
+  :county: ORANGE
+'95439':
+  :city: FULTON
+  :state: CA
+  :county: SONOMA
+'95632':
+  :city: GALT
+  :state: CA
+  :county: SACRAMENTO
+'95542':
+  :city: GARBERVILLE
+  :state: CA
+  :county: ''
+'92640':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92641':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92643':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92644':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92645':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92840':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92841':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92842':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92843':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92844':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92845':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'92846':
+  :city: GARDEN GROVE
+  :state: CA
+  :county: ORANGE
+'95633':
+  :city: GARDEN VALLEY
+  :state: CA
+  :county: EL DORADO
+'90247':
+  :city: GARDENA
+  :state: CA
+  :county: LOS ANGELES
+'90248':
+  :city: GARDENA
+  :state: CA
+  :county: LOS ANGELES
+'90249':
+  :city: GARDENA
+  :state: CA
+  :county: LOS ANGELES
+'95543':
+  :city: GASQUET
+  :state: CA
+  :county: DEL NORTE
+'96034':
+  :city: GAZELLE
+  :state: CA
+  :county: SISKIYOU
+'95634':
+  :city: GEORGETOWN
+  :state: CA
+  :county: EL DORADO
+'96035':
+  :city: GERBER
+  :state: CA
+  :county: TEHAMA
+'95441':
+  :city: GEYSERVILLE
+  :state: CA
+  :county: SONOMA
+'95020':
+  :city: GILROY
+  :state: CA
+  :county: SANTA CLARA
+'95021':
+  :city: GILROY
+  :state: CA
+  :county: ''
+'95442':
+  :city: GLEN ELLEN
+  :state: CA
+  :county: SONOMA
+'95232':
+  :city: GLENCOE
+  :state: CA
+  :county: CALAVERAS
+'91201':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91202':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91203':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91204':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91205':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91206':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91207':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91208':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91209':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91210':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91214':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91221':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91222':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91225':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91226':
+  :city: GLENDALE
+  :state: CA
+  :county: LOS ANGELES
+'91740':
+  :city: GLENDORA
+  :state: CA
+  :county: LOS ANGELES
+'91741':
+  :city: GLENDORA
+  :state: CA
+  :county: ''
+'95443':
+  :city: GLENHAVEN
+  :state: CA
+  :county: LAKE
+'95943':
+  :city: GLENN
+  :state: CA
+  :county: GLENN
+'93226':
+  :city: GLENNVILLE
+  :state: CA
+  :county: KERN
+'95717':
+  :city: GOLD RUN
+  :state: CA
+  :county: ''
+'93116':
+  :city: GOLETA
+  :state: CA
+  :county: SANTA BARBARA
+'93118':
+  :city: GOLETA
+  :state: CA
+  :county: SANTA BARBARA
+'93199':
+  :city: GOLETA
+  :state: CA
+  :county: ''
+'93926':
+  :city: GONZALES
+  :state: CA
+  :county: MONTEREY
+'95944':
+  :city: GOODYEARS BAR
+  :state: CA
+  :county: ''
+'93227':
+  :city: GOSHEN
+  :state: CA
+  :county: TULARE
+'91344':
+  :city: GRANADA HILLS
+  :state: CA
+  :county: LOS ANGELES
+'91394':
+  :city: GRANADA HILLS
+  :state: CA
+  :county: LOS ANGELES
+'92313':
+  :city: GRAND TERRACE
+  :state: CA
+  :county: ''
+'95746':
+  :city: GRANITE BAY
+  :state: CA
+  :county: ''
+'95945':
+  :city: GRASS VALLEY
+  :state: CA
+  :county: NEVADA
+'95946':
+  :city: GRASS VALLEY
+  :state: CA
+  :county: NEVADA
+'95949':
+  :city: GRASS VALLEY
+  :state: CA
+  :county: NEVADA
+'95444':
+  :city: GRATON
+  :state: CA
+  :county: SONOMA
+'92341':
+  :city: GREEN VALLEY LAKE
+  :state: CA
+  :county: ''
+'93927':
+  :city: GREENFIELD
+  :state: CA
+  :county: MONTEREY
+'96037':
+  :city: GREENVIEW
+  :state: CA
+  :county: SISKIYOU
+'95947':
+  :city: GREENVILLE
+  :state: CA
+  :county: PLUMAS
+'95635':
+  :city: GREENWOOD
+  :state: CA
+  :county: EL DORADO
+'96038':
+  :city: GRENADA
+  :state: CA
+  :county: SISKIYOU
+'95948':
+  :city: GRIDLEY
+  :state: CA
+  :county: BUTTE
+'95950':
+  :city: GRIMES
+  :state: CA
+  :county: ''
+'95636':
+  :city: GRIZZLY FLATS
+  :state: CA
+  :county: EL DORADO
+'95321':
+  :city: GROVELAND
+  :state: CA
+  :county: TUOLUMNE
+'93483':
+  :city: GROVER BEACH
+  :state: CA
+  :county: ''
+'93433':
+  :city: GROVER CITY
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93434':
+  :city: GUADALUPE
+  :state: CA
+  :county: SANTA BARBARA
+'95445':
+  :city: GUALALA
+  :state: CA
+  :county: MENDOCINO
+'91743':
+  :city: GUASTI
+  :state: CA
+  :county: SAN BERNARDINO
+'91931':
+  :city: GUATAY
+  :state: CA
+  :county: ''
+'95446':
+  :city: GUERNEVILLE
+  :state: CA
+  :county: SONOMA
+'95637':
+  :city: GUINDA
+  :state: CA
+  :county: YOLO
+'95322':
+  :city: GUSTINE
+  :state: CA
+  :county: MERCED
+'94019':
+  :city: HALF MOON BAY
+  :state: CA
+  :county: SAN MATEO
+'95951':
+  :city: HAMILTON CITY
+  :state: CA
+  :county: ''
+'93230':
+  :city: HANFORD
+  :state: CA
+  :county: KINGS
+'93231':
+  :city: HANFORD
+  :state: CA
+  :county: KINGS
+'93232':
+  :city: HANFORD
+  :state: CA
+  :county: ''
+'96039':
+  :city: HAPPY CAMP
+  :state: CA
+  :county: SISKIYOU
+'90710':
+  :city: HARBOR CITY
+  :state: CA
+  :county: LOS ANGELES
+'93435':
+  :city: HARMONY
+  :state: CA
+  :county: ''
+'96040':
+  :city: HAT CREEK
+  :state: CA
+  :county: SHASTA
+'95233':
+  :city: HATHAWAY PINES
+  :state: CA
+  :county: ''
+'90716':
+  :city: HAWAIIAN GARDENS
+  :state: CA
+  :county: LOS ANGELES
+'90250':
+  :city: HAWTHORNE
+  :state: CA
+  :county: LOS ANGELES
+'90251':
+  :city: HAWTHORNE
+  :state: CA
+  :county: LOS ANGELES
+'96041':
+  :city: HAYFORK
+  :state: CA
+  :county: TRINITY
+'94540':
+  :city: HAYWARD
+  :state: CA
+  :county: ALAMEDA
+'94541':
+  :city: HAYWARD
+  :state: CA
+  :county: ALAMEDA
+'94542':
+  :city: HAYWARD
+  :state: CA
+  :county: ALAMEDA
+'94543':
+  :city: HAYWARD
+  :state: CA
+  :county: ALAMEDA
+'94544':
+  :city: HAYWARD
+  :state: CA
+  :county: ALAMEDA
+'94545':
+  :city: HAYWARD
+  :state: CA
+  :county: ALAMEDA
+'94552':
+  :city: HAYWARD
+  :state: CA
+  :county: ALAMEDA
+'94557':
+  :city: HAYWARD
+  :state: CA
+  :county: ''
+'95448':
+  :city: HEALDSBURG
+  :state: CA
+  :county: SONOMA
+'92249':
+  :city: HEBER
+  :state: CA
+  :county: IMPERIAL
+'92342':
+  :city: HELENDALE
+  :state: CA
+  :county: SAN BERNARDINO
+'93627':
+  :city: HELM
+  :state: CA
+  :county: ''
+'92543':
+  :city: HEMET
+  :state: CA
+  :county: ''
+'92544':
+  :city: HEMET
+  :state: CA
+  :county: ''
+'92545':
+  :city: HEMET
+  :state: CA
+  :county: ''
+'92546':
+  :city: HEMET
+  :state: CA
+  :county: ''
+'95638':
+  :city: HERALD
+  :state: CA
+  :county: SACRAMENTO
+'94547':
+  :city: HERCULES
+  :state: CA
+  :county: CONTRA COSTA
+'96113':
+  :city: HERLONG
+  :state: CA
+  :county: ''
+'90254':
+  :city: HERMOSA BEACH
+  :state: CA
+  :county: LOS ANGELES
+'92340':
+  :city: HESPERIA
+  :state: CA
+  :county: ''
+'92345':
+  :city: HESPERIA
+  :state: CA
+  :county: SAN BERNARDINO
+'95323':
+  :city: HICKMAN
+  :state: CA
+  :county: STANISLAUS
+'92346':
+  :city: HIGHLAND
+  :state: CA
+  :county: SAN BERNARDINO
+'95324':
+  :city: HILMAR
+  :state: CA
+  :county: MERCED
+'92347':
+  :city: HINKLEY
+  :state: CA
+  :county: SAN BERNARDINO
+'95023':
+  :city: HOLLISTER
+  :state: CA
+  :county: SAN BENITO
+'95024':
+  :city: HOLLISTER
+  :state: CA
+  :county: ''
+'95234':
+  :city: HOLT
+  :state: CA
+  :county: ''
+'92250':
+  :city: HOLTVILLE
+  :state: CA
+  :county: IMPERIAL
+'95026':
+  :city: HOLY CITY
+  :state: CA
+  :county: ''
+'92548':
+  :city: HOMELAND
+  :state: CA
+  :county: RIVERSIDE
+'96141':
+  :city: HOMEWOOD
+  :state: CA
+  :county: ''
+'95545':
+  :city: HONEYDEW
+  :state: CA
+  :county: HUMBOLDT
+'95639':
+  :city: HOOD
+  :state: CA
+  :county: ''
+'95546':
+  :city: HOOPA
+  :state: CA
+  :county: HUMBOLDT
+'95449':
+  :city: HOPLAND
+  :state: CA
+  :county: MENDOCINO
+'96044':
+  :city: HORNBROOK
+  :state: CA
+  :county: SISKIYOU
+'95325':
+  :city: HORNITOS
+  :state: CA
+  :county: MARIPOSA
+'96045':
+  :city: HORSE CREEK
+  :state: CA
+  :county: SISKIYOU
+'95326':
+  :city: HUGHSON
+  :state: CA
+  :county: STANISLAUS
+'93628':
+  :city: HUME
+  :state: CA
+  :county: ''
+'92605':
+  :city: HUNTINGTON BEACH
+  :state: CA
+  :county: ORANGE
+'92615':
+  :city: HUNTINGTON BEACH
+  :state: CA
+  :county: ORANGE
+'92646':
+  :city: HUNTINGTON BEACH
+  :state: CA
+  :county: ORANGE
+'92647':
+  :city: HUNTINGTON BEACH
+  :state: CA
+  :county: ORANGE
+'92648':
+  :city: HUNTINGTON BEACH
+  :state: CA
+  :county: ORANGE
+'92649':
+  :city: HUNTINGTON BEACH
+  :state: CA
+  :county: ORANGE
+'93629':
+  :city: HUNTINGTON LAKE
+  :state: CA
+  :county: ''
+'90255':
+  :city: HUNTINGTON PARK
+  :state: CA
+  :county: LOS ANGELES
+'93234':
+  :city: HURON
+  :state: CA
+  :county: FRESNO
+'96046':
+  :city: HYAMPOM
+  :state: CA
+  :county: TRINITY
+'95547':
+  :city: HYDESVILLE
+  :state: CA
+  :county: HUMBOLDT
+'92549':
+  :city: IDYLLWILD
+  :state: CA
+  :county: ''
+'96047':
+  :city: IGO
+  :state: CA
+  :county: SHASTA
+'92251':
+  :city: IMPERIAL
+  :state: CA
+  :county: IMPERIAL
+'91932':
+  :city: IMPERIAL BEACH
+  :state: CA
+  :county: ''
+'91933':
+  :city: IMPERIAL BEACH
+  :state: CA
+  :county: ''
+'93526':
+  :city: INDEPENDENCE
+  :state: CA
+  :county: INYO
+'92210':
+  :city: INDIAN WELLS
+  :state: CA
+  :county: RIVERSIDE
+'92201':
+  :city: INDIO
+  :state: CA
+  :county: RIVERSIDE
+'92202':
+  :city: INDIO
+  :state: CA
+  :county: RIVERSIDE
+'92203':
+  :city: INDIO
+  :state: CA
+  :county: RIVERSIDE
+'90301':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90302':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90303':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90304':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90305':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90306':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90307':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90308':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90309':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90310':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90311':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90312':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90313':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90397':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90398':
+  :city: INGLEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'94937':
+  :city: INVERNESS
+  :state: CA
+  :county: MARIN
+'93527':
+  :city: INYOKERN
+  :state: CA
+  :county: KERN
+'95640':
+  :city: IONE
+  :state: CA
+  :county: AMADOR
+'92602':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92603':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92604':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92606':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92612':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92614':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92616':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92618':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92619':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92620':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92623':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92697':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92698':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92709':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92710':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92714':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92715':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92717':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92718':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92720':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'92730':
+  :city: IRVINE
+  :state: CA
+  :county: ORANGE
+'95641':
+  :city: ISLETON
+  :state: CA
+  :county: SACRAMENTO
+'93235':
+  :city: IVANHOE
+  :state: CA
+  :county: TULARE
+'95642':
+  :city: JACKSON
+  :state: CA
+  :county: AMADOR
+'91934':
+  :city: JACUMBA
+  :state: CA
+  :county: ''
+'95327':
+  :city: JAMESTOWN
+  :state: CA
+  :county: TUOLUMNE
+'91935':
+  :city: JAMUL
+  :state: CA
+  :county: ''
+'96114':
+  :city: JANESVILLE
+  :state: CA
+  :county: LASSEN
+'96136':
+  :city: JANESVILLE
+  :state: CA
+  :county: LASSEN
+'95450':
+  :city: JENNER
+  :state: CA
+  :county: SONOMA
+'93528':
+  :city: JOHANNESBURG
+  :state: CA
+  :county: ''
+'93928':
+  :city: JOLON
+  :state: CA
+  :county: MONTEREY
+'92252':
+  :city: JOSHUA TREE
+  :state: CA
+  :county: SAN BERNARDINO
+'92036':
+  :city: JULIAN
+  :state: CA
+  :county: SAN DIEGO
+'96048':
+  :city: JUNCTION CITY
+  :state: CA
+  :county: TRINITY
+'93529':
+  :city: JUNE LAKE
+  :state: CA
+  :county: MONO
+'93237':
+  :city: KAWEAH
+  :state: CA
+  :county: TULARE
+'93530':
+  :city: KEELER
+  :state: CA
+  :county: ''
+'93531':
+  :city: KEENE
+  :state: CA
+  :county: KERN
+'95643':
+  :city: KELSEY
+  :state: CA
+  :county: EL DORADO
+'95451':
+  :city: KELSEYVILLE
+  :state: CA
+  :county: LAKE
+'94914':
+  :city: KENTFIELD
+  :state: CA
+  :county: MARIN
+'95452':
+  :city: KENWOOD
+  :state: CA
+  :county: SONOMA
+'93630':
+  :city: KERMAN
+  :state: CA
+  :county: FRESNO
+'93238':
+  :city: KERNVILLE
+  :state: CA
+  :county: KERN
+'93239':
+  :city: KETTLEMAN CITY
+  :state: CA
+  :county: KINGS
+'95328':
+  :city: KEYES
+  :state: CA
+  :county: ''
+'93930':
+  :city: KING CITY
+  :state: CA
+  :county: MONTEREY
+'96143':
+  :city: KINGS BEACH
+  :state: CA
+  :county: ''
+'93633':
+  :city: KINGS CANYON NATIONA
+  :state: CA
+  :county: ''
+'93631':
+  :city: KINGSBURG
+  :state: CA
+  :county: FRESNO
+'95646':
+  :city: KIRKWOOD
+  :state: CA
+  :county: ''
+'95644':
+  :city: KIT CARSON
+  :state: CA
+  :county: ''
+'95548':
+  :city: KLAMATH
+  :state: CA
+  :county: DEL NORTE
+'96050':
+  :city: KLAMATH RIVER
+  :state: CA
+  :county: SISKIYOU
+'95549':
+  :city: KNEELAND
+  :state: CA
+  :county: HUMBOLDT
+'95645':
+  :city: KNIGHTS LANDING
+  :state: CA
+  :county: YOLO
+'94548':
+  :city: KNIGHTSEN
+  :state: CA
+  :county: ''
+'95550':
+  :city: KORBEL
+  :state: CA
+  :county: HUMBOLDT
+'95720':
+  :city: KYBURZ
+  :state: CA
+  :county: EL DORADO
+'91011':
+  :city: LA CANADA FLINTRIDGE
+  :state: CA
+  :county: LOS ANGELES
+'91012':
+  :city: LA CANADA FLINTRIDGE
+  :state: CA
+  :county: LOS ANGELES
+'91224':
+  :city: LA CRESCENTA
+  :state: CA
+  :county: LOS ANGELES
+'95329':
+  :city: LA GRANGE
+  :state: CA
+  :county: STANISLAUS
+'90631':
+  :city: LA HABRA
+  :state: CA
+  :county: ORANGE
+'90632':
+  :city: LA HABRA
+  :state: CA
+  :county: ORANGE
+'90633':
+  :city: LA HABRA
+  :state: CA
+  :county: ORANGE
+'94020':
+  :city: LA HONDA
+  :state: CA
+  :county: SAN MATEO
+'92037':
+  :city: LA JOLLA
+  :state: CA
+  :county: SAN DIEGO
+'92038':
+  :city: LA JOLLA
+  :state: CA
+  :county: SAN DIEGO
+'92039':
+  :city: LA JOLLA
+  :state: CA
+  :county: SAN DIEGO
+'92092':
+  :city: LA JOLLA
+  :state: CA
+  :county: SAN DIEGO
+'92093':
+  :city: LA JOLLA
+  :state: CA
+  :county: SAN DIEGO
+'91941':
+  :city: LA MESA
+  :state: CA
+  :county: ''
+'91942':
+  :city: LA MESA
+  :state: CA
+  :county: ''
+'91943':
+  :city: LA MESA
+  :state: CA
+  :county: ''
+'91944':
+  :city: LA MESA
+  :state: CA
+  :county: ''
+'90637':
+  :city: LA MIRADA
+  :state: CA
+  :county: LOS ANGELES
+'90638':
+  :city: LA MIRADA
+  :state: CA
+  :county: LOS ANGELES
+'90639':
+  :city: LA MIRADA
+  :state: CA
+  :county: LOS ANGELES
+'91744':
+  :city: LA PUENTE
+  :state: CA
+  :county: LOS ANGELES
+'91745':
+  :city: LA PUENTE
+  :state: CA
+  :county: LOS ANGELES
+'91746':
+  :city: LA PUENTE
+  :state: CA
+  :county: LOS ANGELES
+'91747':
+  :city: LA PUENTE
+  :state: CA
+  :county: LOS ANGELES
+'91748':
+  :city: LA PUENTE
+  :state: CA
+  :county: LOS ANGELES
+'91749':
+  :city: LA PUENTE
+  :state: CA
+  :county: LOS ANGELES
+'92253':
+  :city: LA QUINTA
+  :state: CA
+  :county: RIVERSIDE
+'91750':
+  :city: LA VERNE
+  :state: CA
+  :county: LOS ANGELES
+'94549':
+  :city: LAFAYETTE
+  :state: CA
+  :county: CONTRA COSTA
+'92651':
+  :city: LAGUNA BEACH
+  :state: CA
+  :county: ORANGE
+'92652':
+  :city: LAGUNA BEACH
+  :state: CA
+  :county: ORANGE
+'92656':
+  :city: LAGUNA BEACH
+  :state: CA
+  :county: ORANGE
+'92677':
+  :city: LAGUNA BEACH
+  :state: CA
+  :county: ORANGE
+'92653':
+  :city: LAGUNA HILLS
+  :state: CA
+  :county: ORANGE
+'92654':
+  :city: LAGUNA HILLS
+  :state: CA
+  :county: ORANGE
+'92607':
+  :city: LAGUNA NIGUEL
+  :state: CA
+  :county: ORANGE
+'94938':
+  :city: LAGUNITAS
+  :state: CA
+  :county: MARIN
+'92352':
+  :city: LAKE ARROWHEAD
+  :state: CA
+  :county: ''
+'96115':
+  :city: LAKE CITY
+  :state: CA
+  :county: MODOC
+'92530':
+  :city: LAKE ELSINORE
+  :state: CA
+  :county: ''
+'92531':
+  :city: LAKE ELSINORE
+  :state: CA
+  :county: ''
+'92532':
+  :city: LAKE ELSINORE
+  :state: CA
+  :county: ''
+'93532':
+  :city: LAKE HUGHES
+  :state: CA
+  :county: LOS ANGELES
+'93240':
+  :city: LAKE ISABELLA
+  :state: CA
+  :county: KERN
+'96051':
+  :city: LAKEHEAD
+  :state: CA
+  :county: SHASTA
+'96070':
+  :city: LAKEHEAD
+  :state: CA
+  :county: SHASTA
+'95453':
+  :city: LAKEPORT
+  :state: CA
+  :county: LAKE
+'93634':
+  :city: LAKESHORE
+  :state: CA
+  :county: ''
+'92040':
+  :city: LAKESIDE
+  :state: CA
+  :county: SAN DIEGO
+'90711':
+  :city: LAKEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90712':
+  :city: LAKEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90713':
+  :city: LAKEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90714':
+  :city: LAKEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'90715':
+  :city: LAKEWOOD
+  :state: CA
+  :county: LOS ANGELES
+'93241':
+  :city: LAMONT
+  :state: CA
+  :county: KERN
+'93534':
+  :city: LANCASTER
+  :state: CA
+  :county: LOS ANGELES
+'93535':
+  :city: LANCASTER
+  :state: CA
+  :county: LOS ANGELES
+'93536':
+  :city: LANCASTER
+  :state: CA
+  :county: LOS ANGELES
+'93539':
+  :city: LANCASTER
+  :state: CA
+  :county: LOS ANGELES
+'93584':
+  :city: LANCASTER
+  :state: CA
+  :county: ''
+'93586':
+  :city: LANCASTER
+  :state: CA
+  :county: ''
+'92285':
+  :city: LANDERS
+  :state: CA
+  :county: ''
+'94939':
+  :city: LARKSPUR
+  :state: CA
+  :county: MARIN
+'94977':
+  :city: LARKSPUR
+  :state: CA
+  :county: ''
+'95330':
+  :city: LATHROP
+  :state: CA
+  :county: SAN JOAQUIN
+'93242':
+  :city: LATON
+  :state: CA
+  :county: FRESNO
+'90260':
+  :city: LAWNDALE
+  :state: CA
+  :county: LOS ANGELES
+'90261':
+  :city: LAWNDALE
+  :state: CA
+  :county: LOS ANGELES
+'95454':
+  :city: LAYTONVILLE
+  :state: CA
+  :county: MENDOCINO
+'95333':
+  :city: LE GRAND
+  :state: CA
+  :county: MERCED
+'93243':
+  :city: LEBEC
+  :state: CA
+  :county: KERN
+'93541':
+  :city: LEE VINING
+  :state: CA
+  :county: LOS ANGELES
+'95585':
+  :city: LEGGETT
+  :state: CA
+  :county: ''
+'91945':
+  :city: LEMON GROVE
+  :state: CA
+  :county: ''
+'91946':
+  :city: LEMON GROVE
+  :state: CA
+  :county: ''
+'93244':
+  :city: LEMONCOVE
+  :state: CA
+  :county: TULARE
+'93245':
+  :city: LEMOORE
+  :state: CA
+  :county: KINGS
+'93246':
+  :city: LEMOORE
+  :state: CA
+  :county: KINGS
+'96052':
+  :city: LEWISTON
+  :state: CA
+  :county: TRINITY
+'96116':
+  :city: LIKELY
+  :state: CA
+  :county: ''
+'95648':
+  :city: LINCOLN
+  :state: CA
+  :county: PLACER
+'91947':
+  :city: LINCOLN ACRES
+  :state: CA
+  :county: ''
+'95236':
+  :city: LINDEN
+  :state: CA
+  :county: SAN JOAQUIN
+'93247':
+  :city: LINDSAY
+  :state: CA
+  :county: TULARE
+'96117':
+  :city: LITCHFIELD
+  :state: CA
+  :county: LASSEN
+'93542':
+  :city: LITTLE LAKE
+  :state: CA
+  :county: LOS ANGELES
+'95456':
+  :city: LITTLERIVER
+  :state: CA
+  :county: MENDOCINO
+'93543':
+  :city: LITTLEROCK
+  :state: CA
+  :county: LOS ANGELES
+'95953':
+  :city: LIVE OAK
+  :state: CA
+  :county: SUTTER
+'94550':
+  :city: LIVERMORE
+  :state: CA
+  :county: ALAMEDA
+'94551':
+  :city: LIVERMORE
+  :state: CA
+  :county: NAPA
+'95334':
+  :city: LIVINGSTON
+  :state: CA
+  :county: MERCED
+'93544':
+  :city: LLANO
+  :state: CA
+  :county: LOS ANGELES
+'95237':
+  :city: LOCKEFORD
+  :state: CA
+  :county: SAN JOAQUIN
+'93932':
+  :city: LOCKWOOD
+  :state: CA
+  :county: MONTEREY
+'95240':
+  :city: LODI
+  :state: CA
+  :county: SAN JOAQUIN
+'95241':
+  :city: LODI
+  :state: CA
+  :county: SAN JOAQUIN
+'95242':
+  :city: LODI
+  :state: CA
+  :county: SAN JOAQUIN
+'95551':
+  :city: LOLETA
+  :state: CA
+  :county: HUMBOLDT
+'92350':
+  :city: LOMA LINDA
+  :state: CA
+  :county: SAN BERNARDINO
+'92354':
+  :city: LOMA LINDA
+  :state: CA
+  :county: SAN BERNARDINO
+'92357':
+  :city: LOMA LINDA
+  :state: CA
+  :county: SAN BERNARDINO
+'94021':
+  :city: LOMA MAR
+  :state: CA
+  :county: SAN MATEO
+'90717':
+  :city: LOMITA
+  :state: CA
+  :county: LOS ANGELES
+'93436':
+  :city: LOMPOC
+  :state: CA
+  :county: SANTA BARBARA
+'93437':
+  :city: LOMPOC
+  :state: CA
+  :county: SANTA BARBARA
+'93438':
+  :city: LOMPOC
+  :state: CA
+  :county: ''
+'93545':
+  :city: LONE PINE
+  :state: CA
+  :county: INYO
+'95335':
+  :city: LONG BARN
+  :state: CA
+  :county: ''
+'90801':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90802':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90803':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90804':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90805':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90806':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90807':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90808':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90809':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90810':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90813':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90814':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90815':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90822':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90831':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90832':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90833':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90834':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90835':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90840':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90842':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90844':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90845':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90846':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90847':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90848':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90853':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90888':
+  :city: LONG BEACH
+  :state: CA
+  :county: LOS ANGELES
+'96054':
+  :city: LOOKOUT
+  :state: CA
+  :county: MODOC
+'95650':
+  :city: LOOMIS
+  :state: CA
+  :county: PLACER
+'90720':
+  :city: LOS ALAMITOS
+  :state: CA
+  :county: ORANGE
+'90721':
+  :city: LOS ALAMITOS
+  :state: CA
+  :county: ORANGE
+'93440':
+  :city: LOS ALAMOS
+  :state: CA
+  :county: ''
+'94022':
+  :city: LOS ALTOS
+  :state: CA
+  :county: SANTA CLARA
+'94023':
+  :city: LOS ALTOS
+  :state: CA
+  :county: SANTA CLARA
+'94024':
+  :city: LOS ALTOS
+  :state: CA
+  :county: SANTA CLARA
+'90001':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90002':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90003':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90004':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90005':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90006':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90007':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90008':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90009':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90010':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90011':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90012':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90013':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90014':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90015':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90016':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90017':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90018':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90019':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90020':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90021':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90022':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90023':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90024':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90025':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90026':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90027':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90028':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90029':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90030':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90031':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90032':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90033':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90034':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90035':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90036':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90037':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90038':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90039':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90040':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90041':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90042':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90043':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90044':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90045':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90046':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90047':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90048':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90049':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90050':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90051':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90052':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90053':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90054':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90055':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90056':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90057':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90058':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90059':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90060':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90061':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90062':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90063':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90064':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90065':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90066':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90067':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90068':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90069':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90070':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90071':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90072':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90073':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90074':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90075':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90076':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90077':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90078':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90079':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90080':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90081':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90082':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90083':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90084':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90086':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90087':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90088':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90089':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90091':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90093':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90094':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90095':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90096':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90097':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90099':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90101':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90102':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90174':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'90185':
+  :city: LOS ANGELES
+  :state: CA
+  :county: LOS ANGELES
+'93635':
+  :city: LOS BANOS
+  :state: CA
+  :county: MERCED
+'95030':
+  :city: LOS GATOS
+  :state: CA
+  :county: SANTA CLARA
+'95031':
+  :city: LOS GATOS
+  :state: CA
+  :county: SANTA CLARA
+'95032':
+  :city: LOS GATOS
+  :state: CA
+  :county: SANTA CLARA
+'95033':
+  :city: LOS GATOS
+  :state: CA
+  :county: SANTA CLARA
+'96055':
+  :city: LOS MOLINOS
+  :state: CA
+  :county: TEHAMA
+'93441':
+  :city: LOS OLIVOS
+  :state: CA
+  :county: ''
+'93412':
+  :city: LOS OSOS
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93249':
+  :city: LOST HILLS
+  :state: CA
+  :county: KERN
+'95651':
+  :city: LOTUS
+  :state: CA
+  :county: ''
+'95457':
+  :city: LOWER LAKE
+  :state: CA
+  :county: LAKE
+'96118':
+  :city: LOYALTON
+  :state: CA
+  :county: SIERRA
+'95458':
+  :city: LUCERNE
+  :state: CA
+  :county: LAKE
+'92356':
+  :city: LUCERNE VALLEY
+  :state: CA
+  :county: SAN BERNARDINO
+'90262':
+  :city: LYNWOOD
+  :state: CA
+  :county: LOS ANGELES
+'92358':
+  :city: LYTLE CREEK
+  :state: CA
+  :county: SAN BERNARDINO
+'96058':
+  :city: MACDOEL
+  :state: CA
+  :county: SISKIYOU
+'95552':
+  :city: MAD RIVER
+  :state: CA
+  :county: TRINITY
+'96119':
+  :city: MADELINE
+  :state: CA
+  :county: LASSEN
+'93637':
+  :city: MADERA
+  :state: CA
+  :county: MADERA
+'93638':
+  :city: MADERA
+  :state: CA
+  :county: MADERA
+'93639':
+  :city: MADERA
+  :state: CA
+  :county: ''
+'95653':
+  :city: MADISON
+  :state: CA
+  :county: ''
+'95954':
+  :city: MAGALIA
+  :state: CA
+  :county: BUTTE
+'90263':
+  :city: MALIBU
+  :state: CA
+  :county: LOS ANGELES
+'90264':
+  :city: MALIBU
+  :state: CA
+  :county: LOS ANGELES
+'90265':
+  :city: MALIBU
+  :state: CA
+  :county: LOS ANGELES
+'93546':
+  :city: MAMMOTH LAKES
+  :state: CA
+  :county: MONO
+'95459':
+  :city: MANCHESTER
+  :state: CA
+  :county: MENDOCINO
+'90266':
+  :city: MANHATTAN BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90267':
+  :city: MANHATTAN BEACH
+  :state: CA
+  :county: LOS ANGELES
+'95336':
+  :city: MANTECA
+  :state: CA
+  :county: SAN JOAQUIN
+'95337':
+  :city: MANTECA
+  :state: CA
+  :county: ''
+'96059':
+  :city: MANTON
+  :state: CA
+  :county: TEHAMA
+'92518':
+  :city: MARCH AIR FORCE BASE
+  :state: CA
+  :county: RIVERSIDE
+'94592':
+  :city: MARE ISLAND
+  :state: CA
+  :county: SOLANO
+'93252':
+  :city: MARICOPA
+  :state: CA
+  :county: KERN
+'93933':
+  :city: MARINA
+  :state: CA
+  :county: MONTEREY
+'90292':
+  :city: MARINA DEL REY
+  :state: CA
+  :county: LOS ANGELES
+'90295':
+  :city: MARINA DEL REY
+  :state: CA
+  :county: LOS ANGELES
+'95338':
+  :city: MARIPOSA
+  :state: CA
+  :county: MARIPOSA
+'96120':
+  :city: MARKLEEVILLE
+  :state: CA
+  :county: ALPINE
+'94940':
+  :city: MARSHALL
+  :state: CA
+  :county: MARIN
+'95654':
+  :city: MARTELL
+  :state: CA
+  :county: ''
+'94553':
+  :city: MARTINEZ
+  :state: CA
+  :county: CONTRA COSTA
+'95901':
+  :city: MARYSVILLE
+  :state: CA
+  :county: YUBA
+'95903':
+  :city: MARYSVILLE
+  :state: CA
+  :county: YUBA
+'95655':
+  :city: MATHER A F B
+  :state: CA
+  :county: SACRAMENTO
+'95955':
+  :city: MAXWELL
+  :state: CA
+  :county: ''
+'90270':
+  :city: MAYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'96053':
+  :city: MC ARTHUR
+  :state: CA
+  :county: LASSEN
+'96056':
+  :city: MC ARTHUR
+  :state: CA
+  :county: SHASTA
+'95652':
+  :city: MC CLELLAN A F B
+  :state: CA
+  :county: SACRAMENTO
+'96057':
+  :city: MC CLOUD
+  :state: CA
+  :county: SISKIYOU
+'93250':
+  :city: MC FARLAND
+  :state: CA
+  :county: KERN
+'93251':
+  :city: MC KITTRICK
+  :state: CA
+  :county: KERN
+'95519':
+  :city: MCKINLEYVILLE
+  :state: CA
+  :county: ''
+'95956':
+  :city: MEADOW VALLEY
+  :state: CA
+  :county: PLUMAS
+'95722':
+  :city: MEADOW VISTA
+  :state: CA
+  :county: PLACER
+'92254':
+  :city: MECCA
+  :state: CA
+  :county: ''
+'95460':
+  :city: MENDOCINO
+  :state: CA
+  :county: MENDOCINO
+'93640':
+  :city: MENDOTA
+  :state: CA
+  :county: FRESNO
+'92584':
+  :city: MENIFEE
+  :state: CA
+  :county: ''
+'94025':
+  :city: MENLO PARK
+  :state: CA
+  :county: SAN MATEO
+'94026':
+  :city: MENLO PARK
+  :state: CA
+  :county: SAN MATEO
+'94027':
+  :city: MENLO PARK
+  :state: CA
+  :county: SAN MATEO
+'94028':
+  :city: MENLO PARK
+  :state: CA
+  :county: SAN MATEO
+'94029':
+  :city: MENLO PARK
+  :state: CA
+  :county: SAN MATEO
+'92359':
+  :city: MENTONE
+  :state: CA
+  :county: SAN BERNARDINO
+'95340':
+  :city: MERCED
+  :state: CA
+  :county: MERCED
+'95341':
+  :city: MERCED
+  :state: CA
+  :county: MERCED
+'95343':
+  :city: MERCED
+  :state: CA
+  :county: MERCED
+'95344':
+  :city: MERCED
+  :state: CA
+  :county: ''
+'95348':
+  :city: MERCED
+  :state: CA
+  :county: MERCED
+'95957':
+  :city: MERIDIAN
+  :state: CA
+  :county: SUTTER
+'95346':
+  :city: MI WUK VILLAGE
+  :state: CA
+  :county: ''
+'95461':
+  :city: MIDDLETOWN
+  :state: CA
+  :county: LAKE
+'95345':
+  :city: MIDPINES
+  :state: CA
+  :county: MARIPOSA
+'92655':
+  :city: MIDWAY CITY
+  :state: CA
+  :county: ORANGE
+'96121':
+  :city: MILFORD
+  :state: CA
+  :county: LASSEN
+'94941':
+  :city: MILL VALLEY
+  :state: CA
+  :county: MARIN
+'94942':
+  :city: MILL VALLEY
+  :state: CA
+  :county: MARIN
+'94030':
+  :city: MILLBRAE
+  :state: CA
+  :county: SAN MATEO
+'94031':
+  :city: MILLBRAE
+  :state: CA
+  :county: SAN MATEO
+'96062':
+  :city: MILLVILLE
+  :state: CA
+  :county: SHASTA
+'95035':
+  :city: MILPITAS
+  :state: CA
+  :county: SANTA CLARA
+'95036':
+  :city: MILPITAS
+  :state: CA
+  :county: SANTA CLARA
+'96061':
+  :city: MINERAL
+  :state: CA
+  :county: TEHAMA
+'96063':
+  :city: MINERAL
+  :state: CA
+  :county: TEHAMA
+'91752':
+  :city: MIRA LOMA
+  :state: CA
+  :county: RIVERSIDE
+'93641':
+  :city: MIRAMONTE
+  :state: CA
+  :county: FRESNO
+'95553':
+  :city: MIRANDA
+  :state: CA
+  :county: HUMBOLDT
+'91345':
+  :city: MISSION HILLS
+  :state: CA
+  :county: LOS ANGELES
+'91346':
+  :city: MISSION HILLS
+  :state: CA
+  :county: LOS ANGELES
+'91395':
+  :city: MISSION HILLS
+  :state: CA
+  :county: LOS ANGELES
+'92690':
+  :city: MISSION VIEJO
+  :state: CA
+  :county: ORANGE
+'92691':
+  :city: MISSION VIEJO
+  :state: CA
+  :county: ORANGE
+'92692':
+  :city: MISSION VIEJO
+  :state: CA
+  :county: ORANGE
+'95347':
+  :city: MOCCASIN
+  :state: CA
+  :county: ''
+'95350':
+  :city: MODESTO
+  :state: CA
+  :county: STANISLAUS
+'95351':
+  :city: MODESTO
+  :state: CA
+  :county: STANISLAUS
+'95352':
+  :city: MODESTO
+  :state: CA
+  :county: STANISLAUS
+'95353':
+  :city: MODESTO
+  :state: CA
+  :county: STANISLAUS
+'95354':
+  :city: MODESTO
+  :state: CA
+  :county: STANISLAUS
+'95355':
+  :city: MODESTO
+  :state: CA
+  :county: STANISLAUS
+'95356':
+  :city: MODESTO
+  :state: CA
+  :county: STANISLAUS
+'95357':
+  :city: MODESTO
+  :state: CA
+  :county: STANISLAUS
+'95358':
+  :city: MODESTO
+  :state: CA
+  :county: STANISLAUS
+'95397':
+  :city: MODESTO
+  :state: CA
+  :county: ''
+'93501':
+  :city: MOJAVE
+  :state: CA
+  :county: KERN
+'93502':
+  :city: MOJAVE
+  :state: CA
+  :county: ''
+'95245':
+  :city: MOKELUMNE HILL
+  :state: CA
+  :county: CALAVERAS
+'93642':
+  :city: MONO HOT SPRINGS
+  :state: CA
+  :county: ''
+'91016':
+  :city: MONROVIA
+  :state: CA
+  :county: LOS ANGELES
+'91017':
+  :city: MONROVIA
+  :state: CA
+  :county: LOS ANGELES
+'96064':
+  :city: MONTAGUE
+  :state: CA
+  :county: SISKIYOU
+'94037':
+  :city: MONTARA
+  :state: CA
+  :county: SAN MATEO
+'91763':
+  :city: MONTCLAIR
+  :state: CA
+  :county: SAN BERNARDINO
+'95462':
+  :city: MONTE RIO
+  :state: CA
+  :county: SONOMA
+'90640':
+  :city: MONTEBELLO
+  :state: CA
+  :county: LOS ANGELES
+'93940':
+  :city: MONTEREY
+  :state: CA
+  :county: MONTEREY
+'93942':
+  :city: MONTEREY
+  :state: CA
+  :county: MONTEREY
+'93943':
+  :city: MONTEREY
+  :state: CA
+  :county: MONTEREY
+'93944':
+  :city: MONTEREY
+  :state: CA
+  :county: MONTEREY
+'91754':
+  :city: MONTEREY PARK
+  :state: CA
+  :county: LOS ANGELES
+'91755':
+  :city: MONTEREY PARK
+  :state: CA
+  :county: LOS ANGELES
+'91756':
+  :city: MONTEREY PARK
+  :state: CA
+  :county: LOS ANGELES
+'96065':
+  :city: MONTGOMERY CREEK
+  :state: CA
+  :county: SHASTA
+'91020':
+  :city: MONTROSE
+  :state: CA
+  :county: LOS ANGELES
+'91021':
+  :city: MONTROSE
+  :state: CA
+  :county: LOS ANGELES
+'93020':
+  :city: MOORPARK
+  :state: CA
+  :county: VENTURA
+'93021':
+  :city: MOORPARK
+  :state: CA
+  :county: VENTURA
+'94556':
+  :city: MORAGA
+  :state: CA
+  :county: CONTRA COSTA
+'94570':
+  :city: MORAGA
+  :state: CA
+  :county: ''
+'94575':
+  :city: MORAGA
+  :state: CA
+  :county: ''
+'92551':
+  :city: MORENO VALLEY
+  :state: CA
+  :county: ''
+'92552':
+  :city: MORENO VALLEY
+  :state: CA
+  :county: ''
+'92553':
+  :city: MORENO VALLEY
+  :state: CA
+  :county: ''
+'92554':
+  :city: MORENO VALLEY
+  :state: CA
+  :county: ''
+'92555':
+  :city: MORENO VALLEY
+  :state: CA
+  :county: ''
+'92556':
+  :city: MORENO VALLEY
+  :state: CA
+  :county: ''
+'92557':
+  :city: MORENO VALLEY
+  :state: CA
+  :county: ''
+'95037':
+  :city: MORGAN HILL
+  :state: CA
+  :county: SANTA CLARA
+'95038':
+  :city: MORGAN HILL
+  :state: CA
+  :county: ''
+'92256':
+  :city: MORONGO VALLEY
+  :state: CA
+  :county: SAN BERNARDINO
+'93442':
+  :city: MORRO BAY
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93443':
+  :city: MORRO BAY
+  :state: CA
+  :county: SAN LUIS OBISPO
+'94038':
+  :city: MOSS BEACH
+  :state: CA
+  :county: SAN MATEO
+'95039':
+  :city: MOSS LANDING
+  :state: CA
+  :county: ''
+'95656':
+  :city: MOUNT AUKUM
+  :state: CA
+  :county: ''
+'95041':
+  :city: MOUNT HERMON
+  :state: CA
+  :county: ''
+'91948':
+  :city: MOUNT LAGUNA
+  :state: CA
+  :county: ''
+'96067':
+  :city: MOUNT SHASTA
+  :state: CA
+  :county: SISKIYOU
+'91023':
+  :city: MOUNT WILSON
+  :state: CA
+  :county: LOS ANGELES
+'92561':
+  :city: MOUNTAIN CENTER
+  :state: CA
+  :county: ''
+'92366':
+  :city: MOUNTAIN PASS
+  :state: CA
+  :county: ''
+'95246':
+  :city: MOUNTAIN RANCH
+  :state: CA
+  :county: CALAVERAS
+'94035':
+  :city: MOUNTAIN VIEW
+  :state: CA
+  :county: SANTA CLARA
+'94039':
+  :city: MOUNTAIN VIEW
+  :state: CA
+  :county: SANTA CLARA
+'94040':
+  :city: MOUNTAIN VIEW
+  :state: CA
+  :county: SANTA CLARA
+'94041':
+  :city: MOUNTAIN VIEW
+  :state: CA
+  :county: SANTA CLARA
+'94042':
+  :city: MOUNTAIN VIEW
+  :state: CA
+  :county: SANTA CLARA
+'94043':
+  :city: MOUNTAIN VIEW
+  :state: CA
+  :county: SANTA CLARA
+'91759':
+  :city: MT BALDY
+  :state: CA
+  :county: LOS ANGELES
+'95247':
+  :city: MURPHYS
+  :state: CA
+  :county: CALAVERAS
+'92562':
+  :city: MURRIETA
+  :state: CA
+  :county: ''
+'92563':
+  :city: MURRIETA
+  :state: CA
+  :county: ''
+'92564':
+  :city: MURRIETA
+  :state: CA
+  :county: ''
+'95554':
+  :city: MYERS FLAT
+  :state: CA
+  :county: HUMBOLDT
+'94558':
+  :city: NAPA
+  :state: CA
+  :county: NAPA
+'94559':
+  :city: NAPA
+  :state: CA
+  :county: NAPA
+'94581':
+  :city: NAPA
+  :state: CA
+  :county: NAPA
+'91950':
+  :city: NATIONAL CITY
+  :state: CA
+  :county: ''
+'91951':
+  :city: NATIONAL CITY
+  :state: CA
+  :county: ''
+'95463':
+  :city: NAVARRO
+  :state: CA
+  :county: MENDOCINO
+'92363':
+  :city: NEEDLES
+  :state: CA
+  :county: SAN BERNARDINO
+'95958':
+  :city: NELSON
+  :state: CA
+  :county: ''
+'95959':
+  :city: NEVADA CITY
+  :state: CA
+  :county: NEVADA
+'95042':
+  :city: NEW ALMADEN
+  :state: CA
+  :county: ''
+'93254':
+  :city: NEW CUYAMA
+  :state: CA
+  :county: SANTA BARBARA
+'94560':
+  :city: NEWARK
+  :state: CA
+  :county: ALAMEDA
+'92338':
+  :city: NEWBERRY SPRINGS
+  :state: CA
+  :county: SAN BERNARDINO
+'92365':
+  :city: NEWBERRY SPRINGS
+  :state: CA
+  :county: SAN BERNARDINO
+'91319':
+  :city: NEWBURY PARK
+  :state: CA
+  :county: LOS ANGELES
+'91320':
+  :city: NEWBURY PARK
+  :state: CA
+  :county: VENTURA
+'95658':
+  :city: NEWCASTLE
+  :state: CA
+  :county: PLACER
+'91321':
+  :city: NEWHALL
+  :state: CA
+  :county: LOS ANGELES
+'91322':
+  :city: NEWHALL
+  :state: CA
+  :county: LOS ANGELES
+'91381':
+  :city: NEWHALL
+  :state: CA
+  :county: LOS ANGELES
+'91382':
+  :city: NEWHALL
+  :state: CA
+  :county: LOS ANGELES
+'95360':
+  :city: NEWMAN
+  :state: CA
+  :county: STANISLAUS
+'92658':
+  :city: NEWPORT BEACH
+  :state: CA
+  :county: ORANGE
+'92659':
+  :city: NEWPORT BEACH
+  :state: CA
+  :county: ORANGE
+'92660':
+  :city: NEWPORT BEACH
+  :state: CA
+  :county: ORANGE
+'92661':
+  :city: NEWPORT BEACH
+  :state: CA
+  :county: ORANGE
+'92662':
+  :city: NEWPORT BEACH
+  :state: CA
+  :county: ORANGE
+'92663':
+  :city: NEWPORT BEACH
+  :state: CA
+  :county: ORANGE
+'92657':
+  :city: NEWPORT COAST
+  :state: CA
+  :county: ORANGE
+'94946':
+  :city: NICASIO
+  :state: CA
+  :county: MARIN
+'95464':
+  :city: NICE
+  :state: CA
+  :county: LAKE
+'95659':
+  :city: NICOLAUS
+  :state: CA
+  :county: SUTTER
+'92257':
+  :city: NILAND
+  :state: CA
+  :county: IMPERIAL
+'93444':
+  :city: NIPOMO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'91760':
+  :city: NORCO
+  :state: CA
+  :county: RIVERSIDE
+'95724':
+  :city: NORDEN
+  :state: CA
+  :county: ''
+'93643':
+  :city: NORTH FORK
+  :state: CA
+  :county: MADERA
+'95660':
+  :city: NORTH HIGHLANDS
+  :state: CA
+  :county: SACRAMENTO
+'91393':
+  :city: NORTH HILLS
+  :state: CA
+  :county: LOS ANGELES
+'91601':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'91603':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'91605':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'91606':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'91607':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'91609':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'91611':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'91612':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'91615':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'91616':
+  :city: NORTH HOLLYWOOD
+  :state: CA
+  :county: LOS ANGELES
+'92258':
+  :city: NORTH PALM SPRINGS
+  :state: CA
+  :county: ''
+'95960':
+  :city: NORTH SAN JUAN
+  :state: CA
+  :county: NEVADA
+'91324':
+  :city: NORTHRIDGE
+  :state: CA
+  :county: LOS ANGELES
+'91325':
+  :city: NORTHRIDGE
+  :state: CA
+  :county: LOS ANGELES
+'91326':
+  :city: NORTHRIDGE
+  :state: CA
+  :county: LOS ANGELES
+'91327':
+  :city: NORTHRIDGE
+  :state: CA
+  :county: LOS ANGELES
+'91328':
+  :city: NORTHRIDGE
+  :state: CA
+  :county: LOS ANGELES
+'91329':
+  :city: NORTHRIDGE
+  :state: CA
+  :county: LOS ANGELES
+'91330':
+  :city: NORTHRIDGE
+  :state: CA
+  :county: LOS ANGELES
+'90650':
+  :city: NORWALK
+  :state: CA
+  :county: LOS ANGELES
+'90651':
+  :city: NORWALK
+  :state: CA
+  :county: LOS ANGELES
+'90652':
+  :city: NORWALK
+  :state: CA
+  :county: LOS ANGELES
+'90659':
+  :city: NORWALK
+  :state: CA
+  :county: LOS ANGELES
+'94945':
+  :city: NOVATO
+  :state: CA
+  :county: MARIN
+'94947':
+  :city: NOVATO
+  :state: CA
+  :county: MARIN
+'94948':
+  :city: NOVATO
+  :state: CA
+  :county: MARIN
+'94949':
+  :city: NOVATO
+  :state: CA
+  :county: MARIN
+'94998':
+  :city: NOVATO
+  :state: CA
+  :county: MARIN
+'96068':
+  :city: NUBIEBER
+  :state: CA
+  :county: LASSEN
+'92567':
+  :city: NUEVO
+  :state: CA
+  :county: ''
+'93645':
+  :city: O NEALS
+  :state: CA
+  :county: MADERA
+'96069':
+  :city: OAK RUN
+  :state: CA
+  :county: SHASTA
+'93022':
+  :city: OAK VIEW
+  :state: CA
+  :county: VENTURA
+'95361':
+  :city: OAKDALE
+  :state: CA
+  :county: STANISLAUS
+'93644':
+  :city: OAKHURST
+  :state: CA
+  :county: MADERA
+'94601':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94602':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94603':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94604':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94605':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94606':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94607':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94609':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94610':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94611':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94612':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94613':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94614':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94615':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94616':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94617':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94618':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94619':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94621':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94623':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94624':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94625':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94626':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94627':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94643':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94649':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94650':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94659':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94660':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94661':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94666':
+  :city: OAKLAND
+  :state: CA
+  :county: ALAMEDA
+'94561':
+  :city: OAKLEY
+  :state: CA
+  :county: CONTRA COSTA
+'94562':
+  :city: OAKVILLE
+  :state: CA
+  :county: ''
+'95465':
+  :city: OCCIDENTAL
+  :state: CA
+  :county: SONOMA
+'93445':
+  :city: OCEANO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'92049':
+  :city: OCEANSIDE
+  :state: CA
+  :county: SAN DIEGO
+'92051':
+  :city: OCEANSIDE
+  :state: CA
+  :county: SAN DIEGO
+'92052':
+  :city: OCEANSIDE
+  :state: CA
+  :county: SAN DIEGO
+'92054':
+  :city: OCEANSIDE
+  :state: CA
+  :county: SAN DIEGO
+'92055':
+  :city: OCEANSIDE
+  :state: CA
+  :county: SAN DIEGO
+'92056':
+  :city: OCEANSIDE
+  :state: CA
+  :county: SAN DIEGO
+'92057':
+  :city: OCEANSIDE
+  :state: CA
+  :county: SAN DIEGO
+'92058':
+  :city: OCEANSIDE
+  :state: CA
+  :county: SAN DIEGO
+'92259':
+  :city: OCOTILLO
+  :state: CA
+  :county: IMPERIAL
+'93023':
+  :city: OJAI
+  :state: CA
+  :county: VENTURA
+'93024':
+  :city: OJAI
+  :state: CA
+  :county: VENTURA
+'93549':
+  :city: OLANCHA
+  :state: CA
+  :county: ''
+'96071':
+  :city: OLD STATION
+  :state: CA
+  :county: SHASTA
+'94950':
+  :city: OLEMA
+  :state: CA
+  :county: MARIN
+'95961':
+  :city: OLIVEHURST
+  :state: CA
+  :county: YUBA
+'96146':
+  :city: OLYMPIC VALLEY
+  :state: CA
+  :county: ''
+'91758':
+  :city: ONTARIO
+  :state: CA
+  :county: LOS ANGELES
+'91761':
+  :city: ONTARIO
+  :state: CA
+  :county: SAN BERNARDINO
+'91762':
+  :city: ONTARIO
+  :state: CA
+  :county: SAN BERNARDINO
+'91764':
+  :city: ONTARIO
+  :state: CA
+  :county: SAN BERNARDINO
+'91798':
+  :city: ONTARIO
+  :state: CA
+  :county: LOS ANGELES
+'93255':
+  :city: ONYX
+  :state: CA
+  :county: KERN
+'92665':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92666':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92667':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92668':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92669':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92856':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92857':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92859':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92862':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92863':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92864':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92865':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92866':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92867':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92868':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'92869':
+  :city: ORANGE
+  :state: CA
+  :county: ORANGE
+'93646':
+  :city: ORANGE COVE
+  :state: CA
+  :county: FRESNO
+'95662':
+  :city: ORANGEVALE
+  :state: CA
+  :county: SACRAMENTO
+'95962':
+  :city: OREGON HOUSE
+  :state: CA
+  :county: YUBA
+'95555':
+  :city: ORICK
+  :state: CA
+  :county: HUMBOLDT
+'94563':
+  :city: ORINDA
+  :state: CA
+  :county: CONTRA COSTA
+'95963':
+  :city: ORLAND
+  :state: CA
+  :county: GLENN
+'95556':
+  :city: ORLEANS
+  :state: CA
+  :county: HUMBOLDT
+'95568':
+  :city: ORLEANS
+  :state: CA
+  :county: SISKIYOU
+'92368':
+  :city: ORO GRANDE
+  :state: CA
+  :county: SAN BERNARDINO
+'93647':
+  :city: OROSI
+  :state: CA
+  :county: TULARE
+'95965':
+  :city: OROVILLE
+  :state: CA
+  :county: BUTTE
+'95966':
+  :city: OROVILLE
+  :state: CA
+  :county: BUTTE
+'93030':
+  :city: OXNARD
+  :state: CA
+  :county: VENTURA
+'93031':
+  :city: OXNARD
+  :state: CA
+  :county: VENTURA
+'93032':
+  :city: OXNARD
+  :state: CA
+  :county: VENTURA
+'93033':
+  :city: OXNARD
+  :state: CA
+  :county: VENTURA
+'93034':
+  :city: OXNARD
+  :state: CA
+  :county: VENTURA
+'93035':
+  :city: OXNARD
+  :state: CA
+  :county: VENTURA
+'93950':
+  :city: PACIFIC GROVE
+  :state: CA
+  :county: MONTEREY
+'90272':
+  :city: PACIFIC PALISADES
+  :state: CA
+  :county: LOS ANGELES
+'94044':
+  :city: PACIFICA
+  :state: CA
+  :county: SAN MATEO
+'94045':
+  :city: PACIFICA
+  :state: CA
+  :county: SAN MATEO
+'91331':
+  :city: PACOIMA
+  :state: CA
+  :county: LOS ANGELES
+'91333':
+  :city: PACOIMA
+  :state: CA
+  :county: LOS ANGELES
+'91334':
+  :city: PACOIMA
+  :state: CA
+  :county: LOS ANGELES
+'95043':
+  :city: PAICINES
+  :state: CA
+  :county: SAN BENITO
+'92059':
+  :city: PALA
+  :state: CA
+  :county: SAN DIEGO
+'95968':
+  :city: PALERMO
+  :state: CA
+  :county: BUTTE
+'92211':
+  :city: PALM DESERT
+  :state: CA
+  :county: RIVERSIDE
+'92255':
+  :city: PALM DESERT
+  :state: CA
+  :county: ''
+'92260':
+  :city: PALM DESERT
+  :state: CA
+  :county: RIVERSIDE
+'92261':
+  :city: PALM DESERT
+  :state: CA
+  :county: ''
+'92262':
+  :city: PALM SPRINGS
+  :state: CA
+  :county: RIVERSIDE
+'92263':
+  :city: PALM SPRINGS
+  :state: CA
+  :county: ''
+'92264':
+  :city: PALM SPRINGS
+  :state: CA
+  :county: RIVERSIDE
+'92292':
+  :city: PALM SPRINGS
+  :state: CA
+  :county: ''
+'93550':
+  :city: PALMDALE
+  :state: CA
+  :county: LOS ANGELES
+'93551':
+  :city: PALMDALE
+  :state: CA
+  :county: LOS ANGELES
+'93552':
+  :city: PALMDALE
+  :state: CA
+  :county: ''
+'93590':
+  :city: PALMDALE
+  :state: CA
+  :county: ''
+'93591':
+  :city: PALMDALE
+  :state: CA
+  :county: ''
+'93599':
+  :city: PALMDALE
+  :state: CA
+  :county: ''
+'94301':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94302':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94303':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94304':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94305':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94306':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94307':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94308':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94309':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94310':
+  :city: PALO ALTO
+  :state: CA
+  :county: SANTA CLARA
+'94358':
+  :city: SANTA MARIA
+  :state: CA
+  :county: SANTA BARBARA
+'96073':
+  :city: PALO CEDRO
+  :state: CA
+  :county: SHASTA
+'92266':
+  :city: PALO VERDE
+  :state: CA
+  :county: ''
+'92060':
+  :city: PALOMAR MOUNTAIN
+  :state: CA
+  :county: SAN DIEGO
+'90274':
+  :city: PALOS VERDES PENINSU
+  :state: CA
+  :county: LOS ANGELES
+'91402':
+  :city: PANORAMA CITY
+  :state: CA
+  :county: LOS ANGELES
+'91412':
+  :city: PANORAMA CITY
+  :state: CA
+  :county: LOS ANGELES
+'95967':
+  :city: PARADISE
+  :state: CA
+  :county: ''
+'95969':
+  :city: PARADISE
+  :state: CA
+  :county: BUTTE
+'90723':
+  :city: PARAMOUNT
+  :state: CA
+  :county: LOS ANGELES
+'92267':
+  :city: PARKER DAM
+  :state: CA
+  :county: SAN BERNARDINO
+'93648':
+  :city: PARLIER
+  :state: CA
+  :county: FRESNO
+'91050':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91051':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91101':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91102':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91103':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91104':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91105':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91106':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91107':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91109':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91110':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91114':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91115':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91116':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91117':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91121':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91123':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91124':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91125':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91126':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91129':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91131':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91175':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91182':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91184':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91185':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91186':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91187':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91188':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91189':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91191':
+  :city: PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'96074':
+  :city: PASKENTA
+  :state: CA
+  :county: TEHAMA
+'93446':
+  :city: PASO ROBLES
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93447':
+  :city: PASO ROBLES
+  :state: CA
+  :county: SAN LUIS OBISPO
+'95363':
+  :city: PATTERSON
+  :state: CA
+  :county: STANISLAUS
+'92369':
+  :city: PATTON
+  :state: CA
+  :county: ''
+'92061':
+  :city: PAUMA VALLEY
+  :state: CA
+  :county: SAN DIEGO
+'93553':
+  :city: PEARBLOSSOM
+  :state: CA
+  :county: LOS ANGELES
+'93953':
+  :city: PEBBLE BEACH
+  :state: CA
+  :county: MONTEREY
+'94951':
+  :city: PENNGROVE
+  :state: CA
+  :county: SONOMA
+'95663':
+  :city: PENRYN
+  :state: CA
+  :county: PLACER
+'92570':
+  :city: PERRIS
+  :state: CA
+  :county: ''
+'92571':
+  :city: PERRIS
+  :state: CA
+  :county: ''
+'92572':
+  :city: PERRIS
+  :state: CA
+  :county: ''
+'92599':
+  :city: PERRIS
+  :state: CA
+  :county: ''
+'94060':
+  :city: PESCADERO
+  :state: CA
+  :county: SAN MATEO
+'94952':
+  :city: PETALUMA
+  :state: CA
+  :county: SONOMA
+'94953':
+  :city: PETALUMA
+  :state: CA
+  :county: SONOMA
+'94954':
+  :city: PETALUMA
+  :state: CA
+  :county: SONOMA
+'94955':
+  :city: PETALUMA
+  :state: CA
+  :county: SONOMA
+'94975':
+  :city: PETALUMA
+  :state: CA
+  :county: SONOMA
+'94999':
+  :city: PETALUMA
+  :state: CA
+  :county: SONOMA
+'95558':
+  :city: PETROLIA
+  :state: CA
+  :county: HUMBOLDT
+'92329':
+  :city: PHELAN
+  :state: CA
+  :county: ''
+'92371':
+  :city: PHELAN
+  :state: CA
+  :county: SAN BERNARDINO
+'95559':
+  :city: PHILLIPSVILLE
+  :state: CA
+  :county: HUMBOLDT
+'95466':
+  :city: PHILO
+  :state: CA
+  :county: MENDOCINO
+'90660':
+  :city: PICO RIVERA
+  :state: CA
+  :county: LOS ANGELES
+'90661':
+  :city: PICO RIVERA
+  :state: CA
+  :county: LOS ANGELES
+'90662':
+  :city: PICO RIVERA
+  :state: CA
+  :county: LOS ANGELES
+'90665':
+  :city: PICO RIVERA
+  :state: CA
+  :county: LOS ANGELES
+'94620':
+  :city: PIEDMONT
+  :state: CA
+  :county: ALAMEDA
+'93649':
+  :city: PIEDRA
+  :state: CA
+  :county: ''
+'95587':
+  :city: PIERCY
+  :state: CA
+  :county: ''
+'95664':
+  :city: PILOT HILL
+  :state: CA
+  :county: EL DORADO
+'95665':
+  :city: PINE GROVE
+  :state: CA
+  :county: AMADOR
+'91962':
+  :city: PINE VALLEY
+  :state: CA
+  :county: ''
+'95364':
+  :city: PINECREST
+  :state: CA
+  :county: ''
+'95375':
+  :city: PINECREST
+  :state: CA
+  :county: TUOLUMNE
+'93650':
+  :city: PINEDALE
+  :state: CA
+  :county: FRESNO
+'94564':
+  :city: PINOLE
+  :state: CA
+  :county: CONTRA COSTA
+'92372':
+  :city: PINON HILLS
+  :state: CA
+  :county: SAN BERNARDINO
+'95666':
+  :city: PIONEER
+  :state: CA
+  :county: AMADOR
+'92268':
+  :city: PIONEERTOWN
+  :state: CA
+  :county: ''
+'93040':
+  :city: PIRU
+  :state: CA
+  :county: VENTURA
+'93448':
+  :city: PISMO BEACH
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93449':
+  :city: PISMO BEACH
+  :state: CA
+  :county: SAN LUIS OBISPO
+'94565':
+  :city: PITTSBURG
+  :state: CA
+  :county: CONTRA COSTA
+'93256':
+  :city: PIXLEY
+  :state: CA
+  :county: TULARE
+'92670':
+  :city: PLACENTIA
+  :state: CA
+  :county: ORANGE
+'92870':
+  :city: PLACENTIA
+  :state: CA
+  :county: ORANGE
+'92871':
+  :city: PLACENTIA
+  :state: CA
+  :county: ORANGE
+'95667':
+  :city: PLACERVILLE
+  :state: CA
+  :county: EL DORADO
+'95365':
+  :city: PLANADA
+  :state: CA
+  :county: ''
+'96076':
+  :city: PLATINA
+  :state: CA
+  :county: SHASTA
+'90293':
+  :city: PLAYA DEL REY
+  :state: CA
+  :county: LOS ANGELES
+'90296':
+  :city: PLAYA DEL REY
+  :state: CA
+  :county: LOS ANGELES
+'95668':
+  :city: PLEASANT GROVE
+  :state: CA
+  :county: SUTTER
+'94523':
+  :city: PLEASANT HILL
+  :state: CA
+  :county: CONTRA COSTA
+'94566':
+  :city: PLEASANTON
+  :state: CA
+  :county: ALAMEDA
+'94582':
+  :city: PLEASANTON
+  :state: CA
+  :county: ALAMEDA
+'94588':
+  :city: PLEASANTON
+  :state: CA
+  :county: ALAMEDA
+'95669':
+  :city: PLYMOUTH
+  :state: CA
+  :county: AMADOR
+'95468':
+  :city: POINT ARENA
+  :state: CA
+  :county: MENDOCINO
+'94956':
+  :city: POINT REYES STATION
+  :state: CA
+  :county: MARIN
+'95726':
+  :city: POLLOCK PINES
+  :state: CA
+  :county: EL DORADO
+'91765':
+  :city: POMONA
+  :state: CA
+  :county: LOS ANGELES
+'91766':
+  :city: POMONA
+  :state: CA
+  :county: LOS ANGELES
+'91767':
+  :city: POMONA
+  :state: CA
+  :county: LOS ANGELES
+'91768':
+  :city: POMONA
+  :state: CA
+  :county: LOS ANGELES
+'91769':
+  :city: POMONA
+  :state: CA
+  :county: LOS ANGELES
+'91799':
+  :city: POMONA
+  :state: CA
+  :county: LOS ANGELES
+'94567':
+  :city: POPE VALLEY
+  :state: CA
+  :county: NAPA
+'94569':
+  :city: PORT COSTA
+  :state: CA
+  :county: ''
+'93041':
+  :city: PORT HUENEME
+  :state: CA
+  :county: VENTURA
+'93042':
+  :city: PORT HUENEME
+  :state: CA
+  :county: VENTURA
+'93043':
+  :city: PORT HUENEME
+  :state: CA
+  :county: VENTURA
+'93044':
+  :city: PORT HUENEME
+  :state: CA
+  :county: VENTURA
+'93257':
+  :city: PORTERVILLE
+  :state: CA
+  :county: TULARE
+'93258':
+  :city: PORTERVILLE
+  :state: CA
+  :county: TULARE
+'96122':
+  :city: PORTOLA
+  :state: CA
+  :county: ''
+'93260':
+  :city: POSEY
+  :state: CA
+  :county: TULARE
+'91963':
+  :city: POTRERO
+  :state: CA
+  :county: ''
+'91990':
+  :city: POTRERO
+  :state: CA
+  :county: ''
+'95469':
+  :city: POTTER VALLEY
+  :state: CA
+  :county: MENDOCINO
+'92064':
+  :city: POWAY
+  :state: CA
+  :county: SAN DIEGO
+'92074':
+  :city: POWAY
+  :state: CA
+  :county: SAN DIEGO
+'93651':
+  :city: PRATHER
+  :state: CA
+  :county: FRESNO
+'95970':
+  :city: PRINCETON
+  :state: CA
+  :county: COLUSA
+'96078':
+  :city: PROBERTA
+  :state: CA
+  :county: TEHAMA
+'96079':
+  :city: PROJECT CITY
+  :state: CA
+  :county: SHASTA
+'95971':
+  :city: QUINCY
+  :state: CA
+  :county: PLUMAS
+'95972':
+  :city: RACKERBY
+  :state: CA
+  :county: YUBA
+'95248':
+  :city: RAIL ROAD FLAT
+  :state: CA
+  :county: ''
+'93652':
+  :city: RAISIN
+  :state: CA
+  :county: FRESNO
+'92065':
+  :city: RAMONA
+  :state: CA
+  :county: SAN DIEGO
+'95670':
+  :city: RANCHO CORDOVA
+  :state: CA
+  :county: SACRAMENTO
+'95741':
+  :city: RANCHO CORDOVA
+  :state: CA
+  :county: ''
+'95742':
+  :city: RANCHO CORDOVA
+  :state: CA
+  :county: SACRAMENTO
+'95743':
+  :city: RANCHO CORDOVA
+  :state: CA
+  :county: SACRAMENTO
+'91729':
+  :city: RANCHO CUCAMONGA
+  :state: CA
+  :county: ''
+'91730':
+  :city: RANCHO CUCAMONGA
+  :state: CA
+  :county: SAN BERNARDINO
+'92270':
+  :city: RANCHO MIRAGE
+  :state: CA
+  :county: RIVERSIDE
+'90275':
+  :city: RANCHO PALOS VERDES
+  :state: CA
+  :county: LOS ANGELES
+'92067':
+  :city: RANCHO SANTA FE
+  :state: CA
+  :county: SAN DIEGO
+'92091':
+  :city: RANCHO SANTA FE
+  :state: CA
+  :county: SAN DIEGO
+'92688':
+  :city: RANCHO SANTA MARGARI
+  :state: CA
+  :county: ORANGE
+'93554':
+  :city: RANDSBURG
+  :state: CA
+  :county: ''
+'96123':
+  :city: RAVENDALE
+  :state: CA
+  :county: LASSEN
+'93653':
+  :city: RAYMOND
+  :state: CA
+  :county: MADERA
+'96075':
+  :city: RED BLUFF
+  :state: CA
+  :county: TEHAMA
+'96080':
+  :city: RED BLUFF
+  :state: CA
+  :county: TEHAMA
+'93558':
+  :city: RED MOUNTAIN
+  :state: CA
+  :county: ''
+'95569':
+  :city: REDCREST
+  :state: CA
+  :county: HUMBOLDT
+'96001':
+  :city: REDDING
+  :state: CA
+  :county: SHASTA
+'96002':
+  :city: REDDING
+  :state: CA
+  :county: SHASTA
+'96003':
+  :city: REDDING
+  :state: CA
+  :county: SHASTA
+'96049':
+  :city: REDDING
+  :state: CA
+  :county: SHASTA
+'96099':
+  :city: REDDING
+  :state: CA
+  :county: ''
+'92373':
+  :city: REDLANDS
+  :state: CA
+  :county: SAN BERNARDINO
+'92374':
+  :city: REDLANDS
+  :state: CA
+  :county: SAN BERNARDINO
+'92375':
+  :city: REDLANDS
+  :state: CA
+  :county: ''
+'90277':
+  :city: REDONDO BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90278':
+  :city: REDONDO BEACH
+  :state: CA
+  :county: LOS ANGELES
+'95560':
+  :city: REDWAY
+  :state: CA
+  :county: HUMBOLDT
+'94059':
+  :city: REDWOOD CITY
+  :state: CA
+  :county: SAN MATEO
+'94061':
+  :city: REDWOOD CITY
+  :state: CA
+  :county: SAN MATEO
+'94062':
+  :city: REDWOOD CITY
+  :state: CA
+  :county: SAN MATEO
+'94063':
+  :city: REDWOOD CITY
+  :state: CA
+  :county: SAN MATEO
+'94064':
+  :city: REDWOOD CITY
+  :state: CA
+  :county: SAN MATEO
+'94065':
+  :city: REDWOOD CITY
+  :state: CA
+  :county: SAN MATEO
+'95044':
+  :city: REDWOOD ESTATES
+  :state: CA
+  :county: ''
+'95470':
+  :city: REDWOOD VALLEY
+  :state: CA
+  :county: MENDOCINO
+'93654':
+  :city: REEDLEY
+  :state: CA
+  :county: FRESNO
+'95671':
+  :city: REPRESA
+  :state: CA
+  :county: ''
+'95672':
+  :city: RESCUE
+  :state: CA
+  :county: EL DORADO
+'91335':
+  :city: RESEDA
+  :state: CA
+  :county: LOS ANGELES
+'91337':
+  :city: RESEDA
+  :state: CA
+  :county: LOS ANGELES
+'92376':
+  :city: RIALTO
+  :state: CA
+  :county: SAN BERNARDINO
+'92377':
+  :city: RIALTO
+  :state: CA
+  :county: ''
+'93261':
+  :city: RICHGROVE
+  :state: CA
+  :county: TULARE
+'94801':
+  :city: RICHMOND
+  :state: CA
+  :county: CONTRA COSTA
+'94802':
+  :city: RICHMOND
+  :state: CA
+  :county: CONTRA COSTA
+'94804':
+  :city: RICHMOND
+  :state: CA
+  :county: CONTRA COSTA
+'94805':
+  :city: RICHMOND
+  :state: CA
+  :county: CONTRA COSTA
+'94807':
+  :city: RICHMOND
+  :state: CA
+  :county: CONTRA COSTA
+'94808':
+  :city: RICHMOND
+  :state: CA
+  :county: CONTRA COSTA
+'94850':
+  :city: RICHMOND
+  :state: CA
+  :county: CONTRA COSTA
+'95974':
+  :city: RICHVALE
+  :state: CA
+  :county: ''
+'93555':
+  :city: RIDGECREST
+  :state: CA
+  :county: KERN
+'93556':
+  :city: RIDGECREST
+  :state: CA
+  :county: ''
+'92378':
+  :city: RIMFOREST
+  :state: CA
+  :county: ''
+'95562':
+  :city: RIO DELL
+  :state: CA
+  :county: HUMBOLDT
+'95673':
+  :city: RIO LINDA
+  :state: CA
+  :county: SACRAMENTO
+'95471':
+  :city: RIO NIDO
+  :state: CA
+  :county: SONOMA
+'95674':
+  :city: RIO OSO
+  :state: CA
+  :county: SUTTER
+'94571':
+  :city: RIO VISTA
+  :state: CA
+  :county: SOLANO
+'92272':
+  :city: RIPLEY
+  :state: CA
+  :county: RIVERSIDE
+'95366':
+  :city: RIPON
+  :state: CA
+  :county: SAN JOAQUIN
+'95675':
+  :city: RIVER PINES
+  :state: CA
+  :county: ''
+'95367':
+  :city: RIVERBANK
+  :state: CA
+  :county: STANISLAUS
+'95390':
+  :city: RIVERBANK
+  :state: CA
+  :county: STANISLAUS
+'93656':
+  :city: RIVERDALE
+  :state: CA
+  :county: FRESNO
+'92501':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92502':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92503':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92504':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92505':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92506':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92507':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92508':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92509':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92513':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92514':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92515':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92516':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92517':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92519':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92521':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'92522':
+  :city: RIVERSIDE
+  :state: CA
+  :county: RIVERSIDE
+'95676':
+  :city: ROBBINS
+  :state: CA
+  :county: ''
+'95677':
+  :city: ROCKLIN
+  :state: CA
+  :county: PLACER
+'95765':
+  :city: ROCKLIN
+  :state: CA
+  :county: ''
+'94572':
+  :city: RODEO
+  :state: CA
+  :county: CONTRA COSTA
+'94927':
+  :city: ROHNERT PARK
+  :state: CA
+  :county: ''
+'94928':
+  :city: ROHNERT PARK
+  :state: CA
+  :county: SONOMA
+'93560':
+  :city: ROSAMOND
+  :state: CA
+  :county: KERN
+'91770':
+  :city: ROSEMEAD
+  :state: CA
+  :county: LOS ANGELES
+'91771':
+  :city: ROSEMEAD
+  :state: CA
+  :county: LOS ANGELES
+'91772':
+  :city: ROSEMEAD
+  :state: CA
+  :county: LOS ANGELES
+'95661':
+  :city: ROSEVILLE
+  :state: CA
+  :county: PLACER
+'95678':
+  :city: ROSEVILLE
+  :state: CA
+  :county: PLACER
+'95747':
+  :city: ROSEVILLE
+  :state: CA
+  :county: ''
+'94957':
+  :city: ROSS
+  :state: CA
+  :county: MARIN
+'95975':
+  :city: ROUGH AND READY
+  :state: CA
+  :county: NEVADA
+'96084':
+  :city: ROUND MOUNTAIN
+  :state: CA
+  :county: SHASTA
+'95679':
+  :city: RUMSEY
+  :state: CA
+  :county: ''
+'92382':
+  :city: RUNNING SPRINGS
+  :state: CA
+  :county: ''
+'94573':
+  :city: RUTHERFORD
+  :state: CA
+  :county: ''
+'95680':
+  :city: RYDE
+  :state: CA
+  :county: ''
+'94203':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94204':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94205':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94206':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94207':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94208':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94209':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94211':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94229':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94230':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94232':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94234':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94235':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94236':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94237':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94239':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94240':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94243':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94244':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94245':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94246':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94247':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94248':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94249':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94250':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94252':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94253':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94254':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94256':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94257':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94258':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94259':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94261':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94262':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94263':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94267':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94268':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94269':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94271':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94273':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94274':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94277':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94278':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94279':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94280':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94282':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94283':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94284':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94285':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94286':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94287':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94288':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94289':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94290':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94291':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94293':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94294':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94295':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94296':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94297':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94298':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94299':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95799':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95812':
+  :city: SACRAMENTO
+  :state: CA
+  :county: ''
+'95813':
+  :city: SACRAMENTO
+  :state: CA
+  :county: ''
+'95814':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95815':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95816':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95817':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95818':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95819':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95820':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95821':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95822':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95823':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95824':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95825':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95826':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95827':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95828':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95829':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95830':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95831':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95832':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95833':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95834':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95835':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95836':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95837':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95838':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95840':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95841':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95842':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95851':
+  :city: SACRAMENTO
+  :state: CA
+  :county: ''
+'95852':
+  :city: SACRAMENTO
+  :state: CA
+  :county: ''
+'95853':
+  :city: SACRAMENTO
+  :state: CA
+  :county: ''
+'95857':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95860':
+  :city: SACRAMENTO
+  :state: CA
+  :county: ''
+'95864':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95865':
+  :city: SACRAMENTO
+  :state: CA
+  :county: ''
+'95866':
+  :city: SACRAMENTO
+  :state: CA
+  :county: ''
+'95867':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95873':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95887':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95894':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'95899':
+  :city: SACRAMENTO
+  :state: CA
+  :county: SACRAMENTO
+'94574':
+  :city: SAINT HELENA
+  :state: CA
+  :county: NAPA
+'95368':
+  :city: SALIDA
+  :state: CA
+  :county: STANISLAUS
+'93901':
+  :city: SALINAS
+  :state: CA
+  :county: MONTEREY
+'93902':
+  :city: SALINAS
+  :state: CA
+  :county: MONTEREY
+'93905':
+  :city: SALINAS
+  :state: CA
+  :county: MONTEREY
+'93906':
+  :city: SALINAS
+  :state: CA
+  :county: MONTEREY
+'93907':
+  :city: SALINAS
+  :state: CA
+  :county: MONTEREY
+'93908':
+  :city: SALINAS
+  :state: CA
+  :county: MONTEREY
+'93911':
+  :city: SALINAS
+  :state: CA
+  :county: MONTEREY
+'93912':
+  :city: SALINAS
+  :state: CA
+  :county: MONTEREY
+'93915':
+  :city: SALINAS
+  :state: CA
+  :county: MONTEREY
+'92275':
+  :city: SALTON CITY
+  :state: CA
+  :county: ''
+'95563':
+  :city: SALYER
+  :state: CA
+  :county: TRINITY
+'95564':
+  :city: SAMOA
+  :state: CA
+  :county: HUMBOLDT
+'95249':
+  :city: SAN ANDREAS
+  :state: CA
+  :county: CALAVERAS
+'94960':
+  :city: SAN ANSELMO
+  :state: CA
+  :county: MARIN
+'94979':
+  :city: SAN ANSELMO
+  :state: CA
+  :county: ''
+'93450':
+  :city: SAN ARDO
+  :state: CA
+  :county: MONTEREY
+'92401':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92402':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92403':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92404':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92405':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92406':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92407':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92408':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92409':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92410':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92411':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92412':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92413':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92414':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92415':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92416':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92418':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92420':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92423':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92424':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'92427':
+  :city: SAN BERNARDINO
+  :state: CA
+  :county: SAN BERNARDINO
+'94066':
+  :city: SAN BRUNO
+  :state: CA
+  :county: SAN MATEO
+'94067':
+  :city: SAN BRUNO
+  :state: CA
+  :county: SAN MATEO
+'94096':
+  :city: SAN BRUNO
+  :state: CA
+  :county: SAN MATEO
+'94098':
+  :city: SAN BRUNO
+  :state: CA
+  :county: SAN MATEO
+'94099':
+  :city: SAN BRUNO
+  :state: CA
+  :county: SAN MATEO
+'94070':
+  :city: SAN CARLOS
+  :state: CA
+  :county: SAN MATEO
+'94071':
+  :city: SAN CARLOS
+  :state: CA
+  :county: SAN MATEO
+'92672':
+  :city: SAN CLEMENTE
+  :state: CA
+  :county: ORANGE
+'92673':
+  :city: SAN CLEMENTE
+  :state: CA
+  :county: ORANGE
+'92674':
+  :city: SAN CLEMENTE
+  :state: CA
+  :county: ORANGE
+'92101':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92102':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92103':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92104':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92105':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92106':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92107':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92108':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92109':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92110':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92111':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92112':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92113':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92114':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92115':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92116':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92117':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92119':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92120':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92121':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92122':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92123':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92124':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92126':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92127':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92128':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92129':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92130':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92131':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92132':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92133':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92134':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92135':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92136':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92137':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92138':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92139':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92140':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92142':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92145':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92147':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92149':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92150':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92152':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92153':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92154':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92155':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92158':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92159':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92160':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92161':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92162':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92163':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92164':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92165':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92166':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92167':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92168':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92169':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92170':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92171':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92172':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92173':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92174':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92175':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92176':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92177':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92179':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92182':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92184':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92186':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92187':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92188':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92189':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92190':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92191':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92192':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92193':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92194':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92195':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92196':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92197':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92198':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'92199':
+  :city: SAN DIEGO
+  :state: CA
+  :county: SAN DIEGO
+'91773':
+  :city: SAN DIMAS
+  :state: CA
+  :county: LOS ANGELES
+'91340':
+  :city: SAN FERNANDO
+  :state: CA
+  :county: LOS ANGELES
+'91341':
+  :city: SAN FERNANDO
+  :state: CA
+  :county: LOS ANGELES
+'94101':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94102':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94103':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94104':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94105':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94106':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94107':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94108':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94109':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94110':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94111':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94112':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94114':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94115':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94116':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94117':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94118':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94119':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94120':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94121':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94122':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94123':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94124':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94125':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94126':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94127':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94128':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94129':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94130':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94131':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94132':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94133':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94134':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94135':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94136':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94137':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94138':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94139':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94140':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94141':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94142':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94143':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94144':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94145':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94146':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94147':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94150':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94151':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94152':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94153':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94154':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94155':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94156':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94157':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94158':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94159':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94160':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94161':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94162':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94163':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94164':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94165':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94166':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94167':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94168':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94169':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94170':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94171':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94172':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94175':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94177':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'94188':
+  :city: SAN FRANCISCO
+  :state: CA
+  :county: SAN FRANCISCO
+'91775':
+  :city: SAN GABRIEL
+  :state: CA
+  :county: LOS ANGELES
+'91776':
+  :city: SAN GABRIEL
+  :state: CA
+  :county: LOS ANGELES
+'91778':
+  :city: SAN GABRIEL
+  :state: CA
+  :county: LOS ANGELES
+'94963':
+  :city: SAN GERONIMO
+  :state: CA
+  :county: MARIN
+'94074':
+  :city: SAN GREGORIO
+  :state: CA
+  :county: SAN MATEO
+'92581':
+  :city: SAN JACINTO
+  :state: CA
+  :county: ''
+'92582':
+  :city: SAN JACINTO
+  :state: CA
+  :county: ''
+'92583':
+  :city: SAN JACINTO
+  :state: CA
+  :county: ''
+'93660':
+  :city: SAN JOAQUIN
+  :state: CA
+  :county: FRESNO
+'95101':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95102':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95103':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95106':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95108':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95109':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95110':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95111':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95112':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95113':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95114':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95115':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95116':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95117':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95118':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95119':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95120':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95121':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95122':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95123':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95124':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95125':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95126':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95127':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95128':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95129':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95130':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95131':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95132':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95133':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95134':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95135':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95136':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95137':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95138':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95139':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95140':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95141':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95142':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95148':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95150':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95151':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95152':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95153':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95154':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95155':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95156':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95157':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95158':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95159':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95160':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95161':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95164':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95170':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95171':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95172':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95173':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95190':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95191':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95192':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95193':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95194':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95196':
+  :city: SAN JOSE
+  :state: CA
+  :county: SANTA CLARA
+'95045':
+  :city: SAN JUAN BAUTISTA
+  :state: CA
+  :county: SAN BENITO
+'92675':
+  :city: SAN JUAN CAPISTRANO
+  :state: CA
+  :county: ORANGE
+'92679':
+  :city: SAN JUAN CAPISTRANO
+  :state: CA
+  :county: ORANGE
+'92693':
+  :city: SAN JUAN CAPISTRANO
+  :state: CA
+  :county: ORANGE
+'94577':
+  :city: SAN LEANDRO
+  :state: CA
+  :county: ALAMEDA
+'94578':
+  :city: SAN LEANDRO
+  :state: CA
+  :county: ALAMEDA
+'94579':
+  :city: SAN LEANDRO
+  :state: CA
+  :county: ALAMEDA
+'94580':
+  :city: SAN LORENZO
+  :state: CA
+  :county: ALAMEDA
+'93954':
+  :city: SAN LUCAS
+  :state: CA
+  :county: MONTEREY
+'93401':
+  :city: SAN LUIS OBISPO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93402':
+  :city: SAN LUIS OBISPO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93403':
+  :city: SAN LUIS OBISPO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93405':
+  :city: SAN LUIS OBISPO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93406':
+  :city: SAN LUIS OBISPO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93407':
+  :city: SAN LUIS OBISPO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93408':
+  :city: SAN LUIS OBISPO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93409':
+  :city: SAN LUIS OBISPO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93410':
+  :city: SAN LUIS OBISPO
+  :state: CA
+  :county: SAN LUIS OBISPO
+'92068':
+  :city: SAN LUIS REY
+  :state: CA
+  :county: SAN DIEGO
+'92069':
+  :city: SAN MARCOS
+  :state: CA
+  :county: SAN DIEGO
+'92079':
+  :city: SAN MARCOS
+  :state: CA
+  :county: SAN DIEGO
+'92096':
+  :city: SAN MARCOS
+  :state: CA
+  :county: SAN DIEGO
+'91108':
+  :city: SAN MARINO
+  :state: CA
+  :county: LOS ANGELES
+'91118':
+  :city: SAN MARINO
+  :state: CA
+  :county: LOS ANGELES
+'95046':
+  :city: SAN MARTIN
+  :state: CA
+  :county: SANTA CLARA
+'94401':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'94402':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'94403':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'94404':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'94405':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'94406':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'94407':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'94408':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'94409':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'94497':
+  :city: SAN MATEO
+  :state: CA
+  :county: SAN MATEO
+'93451':
+  :city: SAN MIGUEL
+  :state: CA
+  :county: SAN LUIS OBISPO
+'94806':
+  :city: SAN PABLO
+  :state: CA
+  :county: CONTRA COSTA
+'90731':
+  :city: SAN PEDRO
+  :state: CA
+  :county: LOS ANGELES
+'90732':
+  :city: SAN PEDRO
+  :state: CA
+  :county: LOS ANGELES
+'90733':
+  :city: SAN PEDRO
+  :state: CA
+  :county: LOS ANGELES
+'90734':
+  :city: SAN PEDRO
+  :state: CA
+  :county: LOS ANGELES
+'94964':
+  :city: SAN QUENTIN
+  :state: CA
+  :county: MARIN
+'94901':
+  :city: SAN RAFAEL
+  :state: CA
+  :county: MARIN
+'94903':
+  :city: SAN RAFAEL
+  :state: CA
+  :county: MARIN
+'94904':
+  :city: SAN RAFAEL
+  :state: CA
+  :county: MARIN
+'94912':
+  :city: SAN RAFAEL
+  :state: CA
+  :county: MARIN
+'94913':
+  :city: SAN RAFAEL
+  :state: CA
+  :county: MARIN
+'94915':
+  :city: SAN RAFAEL
+  :state: CA
+  :county: MARIN
+'94583':
+  :city: SAN RAMON
+  :state: CA
+  :county: CONTRA COSTA
+'93452':
+  :city: SAN SIMEON
+  :state: CA
+  :county: SAN LUIS OBISPO
+'92143':
+  :city: SAN YSIDRO
+  :state: CA
+  :county: SAN DIEGO
+'93657':
+  :city: SANGER
+  :state: CA
+  :county: FRESNO
+'92701':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92702':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92703':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92704':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92705':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92706':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92707':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92711':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92712':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92735':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'92799':
+  :city: SANTA ANA
+  :state: CA
+  :county: ORANGE
+'93101':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93102':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93103':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93105':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93106':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93107':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93108':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93109':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93110':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93111':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93117':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93120':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93121':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93130':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93140':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93150':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93160':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'93190':
+  :city: SANTA BARBARA
+  :state: CA
+  :county: SANTA BARBARA
+'95050':
+  :city: SANTA CLARA
+  :state: CA
+  :county: SANTA CLARA
+'95051':
+  :city: SANTA CLARA
+  :state: CA
+  :county: SANTA CLARA
+'95052':
+  :city: SANTA CLARA
+  :state: CA
+  :county: SANTA CLARA
+'95053':
+  :city: SANTA CLARA
+  :state: CA
+  :county: SANTA CLARA
+'95054':
+  :city: SANTA CLARA
+  :state: CA
+  :county: SANTA CLARA
+'95055':
+  :city: SANTA CLARA
+  :state: CA
+  :county: SANTA CRUZ
+'95056':
+  :city: SANTA CLARA
+  :state: CA
+  :county: SANTA CRUZ
+'91350':
+  :city: SANTA CLARITA
+  :state: CA
+  :county: LOS ANGELES
+'91380':
+  :city: SANTA CLARITA
+  :state: CA
+  :county: LOS ANGELES
+'91383':
+  :city: SANTA CLARITA
+  :state: CA
+  :county: LOS ANGELES
+'95060':
+  :city: SANTA CRUZ
+  :state: CA
+  :county: SANTA CRUZ
+'95061':
+  :city: SANTA CRUZ
+  :state: CA
+  :county: SANTA CRUZ
+'95062':
+  :city: SANTA CRUZ
+  :state: CA
+  :county: SANTA CRUZ
+'95063':
+  :city: SANTA CRUZ
+  :state: CA
+  :county: SANTA CRUZ
+'95064':
+  :city: SANTA CRUZ
+  :state: CA
+  :county: SANTA CRUZ
+'95065':
+  :city: SANTA CRUZ
+  :state: CA
+  :county: SANTA CRUZ
+'90670':
+  :city: SANTA FE SPRINGS
+  :state: CA
+  :county: LOS ANGELES
+'90671':
+  :city: SANTA FE SPRINGS
+  :state: CA
+  :county: LOS ANGELES
+'93453':
+  :city: SANTA MARGARITA
+  :state: CA
+  :county: SAN LUIS OBISPO
+'93454':
+  :city: SANTA MARIA
+  :state: CA
+  :county: SANTA BARBARA
+'93455':
+  :city: SANTA MARIA
+  :state: CA
+  :county: SANTA BARBARA
+'93456':
+  :city: SANTA MARIA
+  :state: CA
+  :county: SANTA BARBARA
+'93457':
+  :city: SANTA MARIA
+  :state: CA
+  :county: SANTA BARBARA
+'93458':
+  :city: SANTA MARIA
+  :state: CA
+  :county: SANTA BARBARA
+'90401':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90402':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90403':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90404':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90405':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90406':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90407':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90408':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90409':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90410':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'90411':
+  :city: SANTA MONICA
+  :state: CA
+  :county: LOS ANGELES
+'93060':
+  :city: SANTA PAULA
+  :state: CA
+  :county: VENTURA
+'93061':
+  :city: SANTA PAULA
+  :state: CA
+  :county: VENTURA
+'93661':
+  :city: SANTA RITA PARK
+  :state: CA
+  :county: MERCED
+'95401':
+  :city: SANTA ROSA
+  :state: CA
+  :county: SONOMA
+'95402':
+  :city: SANTA ROSA
+  :state: CA
+  :county: SONOMA
+'95403':
+  :city: SANTA ROSA
+  :state: CA
+  :county: SONOMA
+'95404':
+  :city: SANTA ROSA
+  :state: CA
+  :county: SONOMA
+'95405':
+  :city: SANTA ROSA
+  :state: CA
+  :county: SONOMA
+'95406':
+  :city: SANTA ROSA
+  :state: CA
+  :county: SONOMA
+'95407':
+  :city: SANTA ROSA
+  :state: CA
+  :county: SONOMA
+'95408':
+  :city: SANTA ROSA
+  :state: CA
+  :county: SONOMA
+'95409':
+  :city: SANTA ROSA
+  :state: CA
+  :county: SONOMA
+'93460':
+  :city: SANTA YNEZ
+  :state: CA
+  :county: SANTA BARBARA
+'92070':
+  :city: SANTA YSABEL
+  :state: CA
+  :county: SAN DIEGO
+'92071':
+  :city: SANTEE
+  :state: CA
+  :county: SAN DIEGO
+'92072':
+  :city: SANTEE
+  :state: CA
+  :county: SAN DIEGO
+'95070':
+  :city: SARATOGA
+  :state: CA
+  :county: SANTA CLARA
+'95071':
+  :city: SARATOGA
+  :state: CA
+  :county: SANTA CRUZ
+'96124':
+  :city: SATTLEY
+  :state: CA
+  :county: SIERRA
+'94965':
+  :city: SAUSALITO
+  :state: CA
+  :county: MARIN
+'94966':
+  :city: SAUSALITO
+  :state: CA
+  :county: MARIN
+'95565':
+  :city: SCOTIA
+  :state: CA
+  :county: HUMBOLDT
+'96085':
+  :city: SCOTT BAR
+  :state: CA
+  :county: SISKIYOU
+'95066':
+  :city: SCOTTS VALLEY
+  :state: CA
+  :county: SANTA CRUZ
+'95067':
+  :city: SCOTTS VALLEY
+  :state: CA
+  :county: SANTA CRUZ
+'90740':
+  :city: SEAL BEACH
+  :state: CA
+  :county: ORANGE
+'93955':
+  :city: SEASIDE
+  :state: CA
+  :county: MONTEREY
+'95472':
+  :city: SEBASTOPOL
+  :state: CA
+  :county: SONOMA
+'95473':
+  :city: SEBASTOPOL
+  :state: CA
+  :county: ''
+'92273':
+  :city: SEELEY
+  :state: CA
+  :county: ''
+'96086':
+  :city: SEIAD VALLEY
+  :state: CA
+  :county: SISKIYOU
+'93662':
+  :city: SELMA
+  :state: CA
+  :county: FRESNO
+'91343':
+  :city: SEPULVEDA
+  :state: CA
+  :county: LOS ANGELES
+'93262':
+  :city: SEQUOIA NATIONAL PAR
+  :state: CA
+  :county: TULARE
+'93263':
+  :city: SHAFTER
+  :state: CA
+  :county: KERN
+'93461':
+  :city: SHANDON
+  :state: CA
+  :county: SAN LUIS OBISPO
+'96087':
+  :city: SHASTA
+  :state: CA
+  :county: SHASTA
+'93664':
+  :city: SHAVER LAKE
+  :state: CA
+  :county: FRESNO
+'95250':
+  :city: SHEEP RANCH
+  :state: CA
+  :county: ''
+'95681':
+  :city: SHERIDAN
+  :state: CA
+  :county: PLACER
+'91403':
+  :city: SHERMAN OAKS
+  :state: CA
+  :county: LOS ANGELES
+'91413':
+  :city: SHERMAN OAKS
+  :state: CA
+  :county: LOS ANGELES
+'91423':
+  :city: SHERMAN OAKS
+  :state: CA
+  :county: LOS ANGELES
+'95682':
+  :city: SHINGLE SPRINGS
+  :state: CA
+  :county: EL DORADO
+'96088':
+  :city: SHINGLETOWN
+  :state: CA
+  :county: SHASTA
+'92384':
+  :city: SHOSHONE
+  :state: CA
+  :county: ''
+'96125':
+  :city: SIERRA CITY
+  :state: CA
+  :county: SIERRA
+'91024':
+  :city: SIERRA MADRE
+  :state: CA
+  :county: LOS ANGELES
+'91025':
+  :city: SIERRA MADRE
+  :state: CA
+  :county: LOS ANGELES
+'96126':
+  :city: SIERRAVILLE
+  :state: CA
+  :county: SIERRA
+'92676':
+  :city: SILVERADO
+  :state: CA
+  :county: ORANGE
+'93062':
+  :city: SIMI VALLEY
+  :state: CA
+  :county: VENTURA
+'93063':
+  :city: SIMI VALLEY
+  :state: CA
+  :county: VENTURA
+'93064':
+  :city: SIMI VALLEY
+  :state: CA
+  :county: VENTURA
+'93065':
+  :city: SIMI VALLEY
+  :state: CA
+  :county: VENTURA
+'93093':
+  :city: SIMI VALLEY
+  :state: CA
+  :county: VENTURA
+'93099':
+  :city: SIMI VALLEY
+  :state: CA
+  :county: VENTURA
+'92385':
+  :city: SKYFOREST
+  :state: CA
+  :county: ''
+'95683':
+  :city: SLOUGHHOUSE
+  :state: CA
+  :county: SACRAMENTO
+'95977':
+  :city: SMARTVILLE
+  :state: CA
+  :county: YUBA
+'95567':
+  :city: SMITH RIVER
+  :state: CA
+  :county: DEL NORTE
+'95369':
+  :city: SNELLING
+  :state: CA
+  :county: MERCED
+'95728':
+  :city: SODA SPRINGS
+  :state: CA
+  :county: ''
+'92075':
+  :city: SOLANA BEACH
+  :state: CA
+  :county: SAN DIEGO
+'93960':
+  :city: SOLEDAD
+  :state: CA
+  :county: MONTEREY
+'93463':
+  :city: SOLVANG
+  :state: CA
+  :county: SANTA BARBARA
+'93464':
+  :city: SOLVANG
+  :state: CA
+  :county: ''
+'95684':
+  :city: SOMERSET
+  :state: CA
+  :county: EL DORADO
+'93066':
+  :city: SOMIS
+  :state: CA
+  :county: VENTURA
+'95476':
+  :city: SONOMA
+  :state: CA
+  :county: SONOMA
+'95370':
+  :city: SONORA
+  :state: CA
+  :county: TUOLUMNE
+'95073':
+  :city: SOQUEL
+  :state: CA
+  :county: SANTA CRUZ
+'95372':
+  :city: SOULSBYVILLE
+  :state: CA
+  :county: TUOLUMNE
+'95377':
+  :city: TRACY
+  :state: CA
+  :county: TUOLUMNE
+'93665':
+  :city: SOUTH DOS PALOS
+  :state: CA
+  :county: ''
+'90280':
+  :city: SOUTH GATE
+  :state: CA
+  :county: LOS ANGELES
+'96150':
+  :city: SOUTH LAKE TAHOE
+  :state: CA
+  :county: ''
+'96151':
+  :city: SOUTH LAKE TAHOE
+  :state: CA
+  :county: ''
+'96152':
+  :city: SOUTH LAKE TAHOE
+  :state: CA
+  :county: ''
+'96154':
+  :city: SOUTH LAKE TAHOE
+  :state: CA
+  :county: ''
+'96155':
+  :city: SOUTH LAKE TAHOE
+  :state: CA
+  :county: ''
+'96156':
+  :city: SOUTH LAKE TAHOE
+  :state: CA
+  :county: ''
+'96157':
+  :city: SOUTH LAKE TAHOE
+  :state: CA
+  :county: ''
+'96158':
+  :city: SOUTH LAKE TAHOE
+  :state: CA
+  :county: ''
+'91030':
+  :city: SOUTH PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'91031':
+  :city: SOUTH PASADENA
+  :state: CA
+  :county: LOS ANGELES
+'94080':
+  :city: SOUTH SAN FRANCISCO
+  :state: CA
+  :county: SAN MATEO
+'94083':
+  :city: SOUTH SAN FRANCISCO
+  :state: CA
+  :county: SAN MATEO
+'93962':
+  :city: SPRECKELS
+  :state: CA
+  :county: MONTEREY
+'91976':
+  :city: SPRING VALLEY
+  :state: CA
+  :county: ''
+'91977':
+  :city: SPRING VALLEY
+  :state: CA
+  :county: ''
+'91978':
+  :city: SPRING VALLEY
+  :state: CA
+  :county: ''
+'91979':
+  :city: SPRING VALLEY
+  :state: CA
+  :county: ''
+'93265':
+  :city: SPRINGVILLE
+  :state: CA
+  :county: TULARE
+'93675':
+  :city: SQUAW VALLEY
+  :state: CA
+  :county: ''
+'95373':
+  :city: STANDARD
+  :state: CA
+  :county: ''
+'96128':
+  :city: STANDISH
+  :state: CA
+  :county: LASSEN
+'90680':
+  :city: STANTON
+  :state: CA
+  :county: ORANGE
+'95374':
+  :city: STEVINSON
+  :state: CA
+  :county: MERCED
+'95480':
+  :city: STEWARTS POINT
+  :state: CA
+  :county: SONOMA
+'94970':
+  :city: STINSON BEACH
+  :state: CA
+  :county: MARIN
+'95978':
+  :city: STIRLING CITY
+  :state: CA
+  :county: ''
+'95201':
+  :city: STOCKTON
+  :state: CA
+  :county: ''
+'95202':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95203':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95204':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95205':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95206':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95207':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95208':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95209':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95210':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95211':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95212':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95213':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95215':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95219':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95267':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95269':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95290':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95296':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95297':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95298':
+  :city: STOCKTON
+  :state: CA
+  :county: SAN JOAQUIN
+'95979':
+  :city: STONYFORD
+  :state: CA
+  :county: COLUSA
+'95980':
+  :city: STORRIE
+  :state: CA
+  :county: ''
+'93266':
+  :city: STRATFORD
+  :state: CA
+  :county: KINGS
+'93267':
+  :city: STRATHMORE
+  :state: CA
+  :county: TULARE
+'95981':
+  :city: STRAWBERRY VALLEY
+  :state: CA
+  :county: YUBA
+'91604':
+  :city: STUDIO CITY
+  :state: CA
+  :county: LOS ANGELES
+'91614':
+  :city: STUDIO CITY
+  :state: CA
+  :county: LOS ANGELES
+'94585':
+  :city: SUISUN CITY
+  :state: CA
+  :county: SOLANO
+'93666':
+  :city: SULTANA
+  :state: CA
+  :county: ''
+'93067':
+  :city: SUMMERLAND
+  :state: CA
+  :county: VENTURA
+'96089':
+  :city: SUMMIT CITY
+  :state: CA
+  :county: SHASTA
+'92585':
+  :city: SUN CITY
+  :state: CA
+  :county: ''
+'92586':
+  :city: SUN CITY
+  :state: CA
+  :county: ''
+'92587':
+  :city: SUN CITY
+  :state: CA
+  :county: ''
+'91352':
+  :city: SUN VALLEY
+  :state: CA
+  :county: LOS ANGELES
+'91353':
+  :city: SUN VALLEY
+  :state: CA
+  :county: LOS ANGELES
+'91040':
+  :city: SUNLAND
+  :state: CA
+  :county: LOS ANGELES
+'91041':
+  :city: SUNLAND
+  :state: CA
+  :county: LOS ANGELES
+'94086':
+  :city: SUNNYVALE
+  :state: CA
+  :county: SANTA CLARA
+'94087':
+  :city: SUNNYVALE
+  :state: CA
+  :county: SANTA CLARA
+'94088':
+  :city: SUNNYVALE
+  :state: CA
+  :county: SANTA CLARA
+'94089':
+  :city: SUNNYVALE
+  :state: CA
+  :county: SANTA CLARA
+'94090':
+  :city: SUNNYVALE
+  :state: CA
+  :county: SANTA CLARA
+'94586':
+  :city: SUNOL
+  :state: CA
+  :county: ALAMEDA
+'90742':
+  :city: SUNSET BEACH
+  :state: CA
+  :county: LOS ANGELES
+'90743':
+  :city: SURFSIDE
+  :state: CA
+  :county: LOS ANGELES
+'96127':
+  :city: SUSANVILLE
+  :state: CA
+  :county: ''
+'96130':
+  :city: SUSANVILLE
+  :state: CA
+  :county: LASSEN
+'95982':
+  :city: SUTTER
+  :state: CA
+  :county: SUTTER
+'95685':
+  :city: SUTTER CREEK
+  :state: CA
+  :county: AMADOR
+'91342':
+  :city: SYLMAR
+  :state: CA
+  :county: LOS ANGELES
+'91392':
+  :city: SYLMAR
+  :state: CA
+  :county: LOS ANGELES
+'93268':
+  :city: TAFT
+  :state: CA
+  :county: KERN
+'96145':
+  :city: TAHOE CITY
+  :state: CA
+  :county: ''
+'96148':
+  :city: TAHOE VISTA
+  :state: CA
+  :county: ''
+'96142':
+  :city: TAHOMA
+  :state: CA
+  :county: ''
+'95481':
+  :city: TALMAGE
+  :state: CA
+  :county: MENDOCINO
+'94974':
+  :city: TAMAL
+  :state: CA
+  :county: MARIN
+'91356':
+  :city: TARZANA
+  :state: CA
+  :county: LOS ANGELES
+'91357':
+  :city: TARZANA
+  :state: CA
+  :county: LOS ANGELES
+'95983':
+  :city: TAYLORSVILLE
+  :state: CA
+  :county: PLUMAS
+'91980':
+  :city: TECATE
+  :state: CA
+  :county: ''
+'91987':
+  :city: TECATE
+  :state: CA
+  :county: ''
+'92389':
+  :city: TECOPA
+  :state: CA
+  :county: ''
+'93561':
+  :city: TEHACHAPI
+  :state: CA
+  :county: KERN
+'93581':
+  :city: TEHACHAPI
+  :state: CA
+  :county: ''
+'93582':
+  :city: TEHACHAPI
+  :state: CA
+  :county: ''
+'96090':
+  :city: TEHAMA
+  :state: CA
+  :county: TEHAMA
+'92589':
+  :city: TEMECULA
+  :state: CA
+  :county: ''
+'92590':
+  :city: TEMECULA
+  :state: CA
+  :county: ''
+'92591':
+  :city: TEMECULA
+  :state: CA
+  :county: ''
+'92592':
+  :city: TEMECULA
+  :state: CA
+  :county: ''
+'92593':
+  :city: TEMECULA
+  :state: CA
+  :county: ''
+'91780':
+  :city: TEMPLE CITY
+  :state: CA
+  :county: LOS ANGELES
+'93465':
+  :city: TEMPLETON
+  :state: CA
+  :county: SAN LUIS OBISPO
+'96132':
+  :city: TERMO
+  :state: CA
+  :county: ''
+'93270':
+  :city: TERRA BELLA
+  :state: CA
+  :county: TULARE
+'95497':
+  :city: THE SEA RANCH
+  :state: CA
+  :county: SONOMA
+'92274':
+  :city: THERMAL
+  :state: CA
+  :county: RIVERSIDE
+'95686':
+  :city: THORNTON
+  :state: CA
+  :county: ''
+'91358':
+  :city: THOUSAND OAKS
+  :state: CA
+  :county: LOS ANGELES
+'91360':
+  :city: THOUSAND OAKS
+  :state: CA
+  :county: VENTURA
+'91361':
+  :city: THOUSAND OAKS
+  :state: CA
+  :county: LOS ANGELES
+'91362':
+  :city: THOUSAND OAKS
+  :state: CA
+  :county: VENTURA
+'91363':
+  :city: THOUSAND OAKS
+  :state: CA
+  :county: VENTURA
+'92276':
+  :city: THOUSAND PALMS
+  :state: CA
+  :county: RIVERSIDE
+'93271':
+  :city: THREE RIVERS
+  :state: CA
+  :county: TULARE
+'93272':
+  :city: TIPTON
+  :state: CA
+  :county: TULARE
+'93667':
+  :city: TOLLHOUSE
+  :state: CA
+  :county: FRESNO
+'91602':
+  :city: TOLUCA LAKE
+  :state: CA
+  :county: LOS ANGELES
+'91610':
+  :city: TOLUCA LAKE
+  :state: CA
+  :county: LOS ANGELES
+'94971':
+  :city: TOMALES
+  :state: CA
+  :county: MARIN
+'90290':
+  :city: TOPANGA
+  :state: CA
+  :county: LOS ANGELES
+'96133':
+  :city: TOPAZ
+  :state: CA
+  :county: MONO
+'90501':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'90502':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'90503':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'90504':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'90505':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'90506':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'90507':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'90508':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'90509':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'90510':
+  :city: TORRANCE
+  :state: CA
+  :county: LOS ANGELES
+'92678':
+  :city: TRABUCO CANYON
+  :state: CA
+  :county: ORANGE
+'95376':
+  :city: TRACY
+  :state: CA
+  :county: SAN JOAQUIN
+'95378':
+  :city: TRACY
+  :state: CA
+  :county: SAN JOAQUIN
+'95385':
+  :city: TRACY
+  :state: CA
+  :county: SAN JOAQUIN
+'93668':
+  :city: TRANQUILLITY
+  :state: CA
+  :county: FRESNO
+'93673':
+  :city: TRAVER
+  :state: CA
+  :county: ''
+'95075':
+  :city: TRES PINOS
+  :state: CA
+  :county: SANTA CRUZ
+'95570':
+  :city: TRINIDAD
+  :state: CA
+  :county: HUMBOLDT
+'96091':
+  :city: TRINITY CENTER
+  :state: CA
+  :county: TRINITY
+'93562':
+  :city: TRONA
+  :state: CA
+  :county: SAN BERNARDINO
+'93592':
+  :city: TRONA
+  :state: CA
+  :county: ''
+'96160':
+  :city: TRUCKEE
+  :state: CA
+  :county: ''
+'96161':
+  :city: TRUCKEE
+  :state: CA
+  :county: ''
+'96162':
+  :city: TRUCKEE
+  :state: CA
+  :county: ''
+'91042':
+  :city: TUJUNGA
+  :state: CA
+  :county: LOS ANGELES
+'91043':
+  :city: TUJUNGA
+  :state: CA
+  :county: LOS ANGELES
+'93274':
+  :city: TULARE
+  :state: CA
+  :county: TULARE
+'93275':
+  :city: TULARE
+  :state: CA
+  :county: TULARE
+'96134':
+  :city: TULELAKE
+  :state: CA
+  :county: SISKIYOU
+'95379':
+  :city: TUOLUMNE
+  :state: CA
+  :county: TUOLUMNE
+'93276':
+  :city: TUPMAN
+  :state: CA
+  :county: TULARE
+'95380':
+  :city: TURLOCK
+  :state: CA
+  :county: STANISLAUS
+'95381':
+  :city: TURLOCK
+  :state: CA
+  :county: STANISLAUS
+'95382':
+  :city: TURLOCK
+  :state: CA
+  :county: STANISLAUS
+'92680':
+  :city: TUSTIN
+  :state: CA
+  :county: ORANGE
+'92780':
+  :city: TUSTIN
+  :state: CA
+  :county: ORANGE
+'92781':
+  :city: TUSTIN
+  :state: CA
+  :county: ORANGE
+'92782':
+  :city: TUSTIN
+  :state: CA
+  :county: ORANGE
+'95984':
+  :city: TWAIN
+  :state: CA
+  :county: ''
+'95383':
+  :city: TWAIN HARTE
+  :state: CA
+  :county: TUOLUMNE
+'92277':
+  :city: TWENTYNINE PALMS
+  :state: CA
+  :county: SAN BERNARDINO
+'92278':
+  :city: TWENTYNINE PALMS
+  :state: CA
+  :county: SAN BERNARDINO
+'95721':
+  :city: TWIN BRIDGES
+  :state: CA
+  :county: EL DORADO
+'95735':
+  :city: TWIN BRIDGES
+  :state: CA
+  :county: EL DORADO
+'92391':
+  :city: TWIN PEAKS
+  :state: CA
+  :county: ''
+'95482':
+  :city: UKIAH
+  :state: CA
+  :county: MENDOCINO
+'94587':
+  :city: UNION CITY
+  :state: CA
+  :county: ALAMEDA
+'91608':
+  :city: UNIVERSAL CITY
+  :state: CA
+  :county: LOS ANGELES
+'91618':
+  :city: UNIVERSAL CITY
+  :state: CA
+  :county: LOS ANGELES
+'91784':
+  :city: UPLAND
+  :state: CA
+  :county: SAN BERNARDINO
+'91785':
+  :city: UPLAND
+  :state: CA
+  :county: SAN BERNARDINO
+'91786':
+  :city: UPLAND
+  :state: CA
+  :county: SAN BERNARDINO
+'95485':
+  :city: UPPER LAKE
+  :state: CA
+  :county: LAKE
+'95493':
+  :city: UPPER LAKE
+  :state: CA
+  :county: LAKE
+'95687':
+  :city: VACAVILLE
+  :state: CA
+  :county: SOLANO
+'95688':
+  :city: VACAVILLE
+  :state: CA
+  :county: SOLANO
+'95696':
+  :city: VACAVILLE
+  :state: CA
+  :county: ''
+'91354':
+  :city: VALENCIA
+  :state: CA
+  :county: LOS ANGELES
+'91355':
+  :city: VALENCIA
+  :state: CA
+  :county: LOS ANGELES
+'91385':
+  :city: VALENCIA
+  :state: CA
+  :county: LOS ANGELES
+'95251':
+  :city: VALLECITO
+  :state: CA
+  :county: ''
+'94589':
+  :city: VALLEJO
+  :state: CA
+  :county: SOLANO
+'94590':
+  :city: VALLEJO
+  :state: CA
+  :county: SOLANO
+'94591':
+  :city: VALLEJO
+  :state: CA
+  :county: SOLANO
+'92082':
+  :city: VALLEY CENTER
+  :state: CA
+  :county: SAN DIEGO
+'94972':
+  :city: VALLEY FORD
+  :state: CA
+  :county: SONOMA
+'95226':
+  :city: VALLEY SPRINGS
+  :state: CA
+  :county: CALAVERAS
+'95252':
+  :city: VALLEY SPRINGS
+  :state: CA
+  :county: CALAVERAS
+'91617':
+  :city: VALLEY VILLAGE
+  :state: CA
+  :county: LOS ANGELES
+'93563':
+  :city: VALYERMO
+  :state: CA
+  :county: LOS ANGELES
+'91388':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91401':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91404':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91405':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91406':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91407':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91408':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91409':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91410':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91411':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91470':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91482':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91495':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91496':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91497':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'91499':
+  :city: VAN NUYS
+  :state: CA
+  :county: LOS ANGELES
+'90291':
+  :city: VENICE
+  :state: CA
+  :county: LOS ANGELES
+'90294':
+  :city: VENICE
+  :state: CA
+  :county: LOS ANGELES
+'93001':
+  :city: VENTURA
+  :state: CA
+  :county: VENTURA
+'93002':
+  :city: VENTURA
+  :state: CA
+  :county: VENTURA
+'93003':
+  :city: VENTURA
+  :state: CA
+  :county: VENTURA
+'93004':
+  :city: VENTURA
+  :state: CA
+  :county: VENTURA
+'93005':
+  :city: VENTURA
+  :state: CA
+  :county: VENTURA
+'93006':
+  :city: VENTURA
+  :state: CA
+  :county: VENTURA
+'93007':
+  :city: VENTURA
+  :state: CA
+  :county: VENTURA
+'93009':
+  :city: VENTURA
+  :state: CA
+  :county: VENTURA
+'91046':
+  :city: VERDUGO CITY
+  :state: CA
+  :county: LOS ANGELES
+'95253':
+  :city: VICTOR
+  :state: CA
+  :county: ''
+'92392':
+  :city: VICTORVILLE
+  :state: CA
+  :county: SAN BERNARDINO
+'92393':
+  :city: VICTORVILLE
+  :state: CA
+  :county: SAN BERNARDINO
+'92394':
+  :city: VICTORVILLE
+  :state: CA
+  :county: SAN BERNARDINO
+'95486':
+  :city: VILLA GRANDE
+  :state: CA
+  :county: SONOMA
+'92861':
+  :city: VILLA PARK
+  :state: CA
+  :county: ORANGE
+'96092':
+  :city: VINA
+  :state: CA
+  :county: TEHAMA
+'95487':
+  :city: VINEBURG
+  :state: CA
+  :county: SONOMA
+'96135':
+  :city: VINTON
+  :state: CA
+  :county: ''
+'93277':
+  :city: VISALIA
+  :state: CA
+  :county: TULARE
+'93278':
+  :city: VISALIA
+  :state: CA
+  :county: TULARE
+'93279':
+  :city: VISALIA
+  :state: CA
+  :county: TULARE
+'93291':
+  :city: VISALIA
+  :state: CA
+  :county: TULARE
+'93292':
+  :city: VISALIA
+  :state: CA
+  :county: TULARE
+'92083':
+  :city: VISTA
+  :state: CA
+  :county: SAN DIEGO
+'92084':
+  :city: VISTA
+  :state: CA
+  :county: SAN DIEGO
+'92085':
+  :city: VISTA
+  :state: CA
+  :county: SAN DIEGO
+'95689':
+  :city: VOLCANO
+  :state: CA
+  :county: AMADOR
+'95254':
+  :city: WALLACE
+  :state: CA
+  :county: ''
+'91788':
+  :city: WALNUT
+  :state: CA
+  :county: LOS ANGELES
+'91789':
+  :city: WALNUT
+  :state: CA
+  :county: LOS ANGELES
+'91795':
+  :city: WALNUT
+  :state: CA
+  :county: LOS ANGELES
+'94595':
+  :city: WALNUT CREEK
+  :state: CA
+  :county: CONTRA COSTA
+'94596':
+  :city: WALNUT CREEK
+  :state: CA
+  :county: CONTRA COSTA
+'94597':
+  :city: WALNUT CREEK
+  :state: CA
+  :county: CONTRA COSTA
+'94598':
+  :city: WALNUT CREEK
+  :state: CA
+  :county: CONTRA COSTA
+'95690':
+  :city: WALNUT GROVE
+  :state: CA
+  :county: SACRAMENTO
+'92066':
+  :city: WARNER SPRINGS
+  :state: CA
+  :county: SAN DIEGO
+'92086':
+  :city: WARNER SPRINGS
+  :state: CA
+  :county: SAN DIEGO
+'93280':
+  :city: WASCO
+  :state: CA
+  :county: KERN
+'95986':
+  :city: WASHINGTON
+  :state: CA
+  :county: ''
+'95386':
+  :city: WATERFORD
+  :state: CA
+  :county: STANISLAUS
+'95076':
+  :city: WATSONVILLE
+  :state: CA
+  :county: SANTA CRUZ
+'95077':
+  :city: WATSONVILLE
+  :state: CA
+  :county: ''
+'93282':
+  :city: WAUKENA
+  :state: CA
+  :county: TULARE
+'96093':
+  :city: WEAVERVILLE
+  :state: CA
+  :county: TRINITY
+'96094':
+  :city: WEED
+  :state: CA
+  :county: SISKIYOU
+'95736':
+  :city: WEIMAR
+  :state: CA
+  :county: ''
+'93283':
+  :city: WELDON
+  :state: CA
+  :county: KERN
+'95571':
+  :city: WEOTT
+  :state: CA
+  :county: HUMBOLDT
+'91790':
+  :city: WEST COVINA
+  :state: CA
+  :county: LOS ANGELES
+'91791':
+  :city: WEST COVINA
+  :state: CA
+  :county: LOS ANGELES
+'91792':
+  :city: WEST COVINA
+  :state: CA
+  :county: LOS ANGELES
+'91793':
+  :city: WEST COVINA
+  :state: CA
+  :county: LOS ANGELES
+'91308':
+  :city: WEST HILLS
+  :state: CA
+  :county: LOS ANGELES
+'95255':
+  :city: WEST POINT
+  :state: CA
+  :county: CALAVERAS
+'95691':
+  :city: WEST SACRAMENTO
+  :state: CA
+  :county: YOLO
+'95798':
+  :city: WEST SACRAMENTO
+  :state: CA
+  :county: ''
+'91359':
+  :city: WESTLAKE VILLAGE
+  :state: CA
+  :county: LOS ANGELES
+'95387':
+  :city: WESTLEY
+  :state: CA
+  :county: ''
+'92683':
+  :city: WESTMINSTER
+  :state: CA
+  :county: ORANGE
+'92684':
+  :city: WESTMINSTER
+  :state: CA
+  :county: ORANGE
+'92685':
+  :city: WESTMINSTER
+  :state: CA
+  :county: ORANGE
+'92281':
+  :city: WESTMORLAND
+  :state: CA
+  :county: IMPERIAL
+'95488':
+  :city: WESTPORT
+  :state: CA
+  :county: MENDOCINO
+'96137':
+  :city: WESTWOOD
+  :state: CA
+  :county: LASSEN
+'95692':
+  :city: WHEATLAND
+  :state: CA
+  :county: YUBA
+'96095':
+  :city: WHISKEYTOWN
+  :state: CA
+  :county: SHASTA
+'95589':
+  :city: WHITETHORN
+  :state: CA
+  :county: ''
+'96096':
+  :city: WHITMORE
+  :state: CA
+  :county: SHASTA
+'90601':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90602':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90603':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90604':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90605':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90606':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90607':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90608':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90609':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90610':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'90612':
+  :city: WHITTIER
+  :state: CA
+  :county: LOS ANGELES
+'92595':
+  :city: WILDOMAR
+  :state: CA
+  :county: RIVERSIDE
+'95987':
+  :city: WILLIAMS
+  :state: CA
+  :county: COLUSA
+'95490':
+  :city: WILLITS
+  :state: CA
+  :county: MENDOCINO
+'95573':
+  :city: WILLOW CREEK
+  :state: CA
+  :county: HUMBOLDT
+'95988':
+  :city: WILLOWS
+  :state: CA
+  :county: GLENN
+'90744':
+  :city: WILMINGTON
+  :state: CA
+  :county: LOS ANGELES
+'90748':
+  :city: WILMINGTON
+  :state: CA
+  :county: LOS ANGELES
+'95257':
+  :city: WILSEYVILLE
+  :state: CA
+  :county: CALAVERAS
+'95693':
+  :city: WILTON
+  :state: CA
+  :county: SACRAMENTO
+'92596':
+  :city: WINCHESTER
+  :state: CA
+  :county: ''
+'95492':
+  :city: WINDSOR
+  :state: CA
+  :county: SONOMA
+'91306':
+  :city: WINNETKA
+  :state: CA
+  :county: LOS ANGELES
+'91396':
+  :city: WINNETKA
+  :state: CA
+  :county: LOS ANGELES
+'92283':
+  :city: WINTERHAVEN
+  :state: CA
+  :county: IMPERIAL
+'95694':
+  :city: WINTERS
+  :state: CA
+  :county: YOLO
+'95388':
+  :city: WINTON
+  :state: CA
+  :county: MERCED
+'93669':
+  :city: WISHON
+  :state: CA
+  :county: MADERA
+'93285':
+  :city: WOFFORD HEIGHTS
+  :state: CA
+  :county: KERN
+'94973':
+  :city: WOODACRE
+  :state: CA
+  :county: MARIN
+'95258':
+  :city: WOODBRIDGE
+  :state: CA
+  :county: SAN JOAQUIN
+'93286':
+  :city: WOODLAKE
+  :state: CA
+  :county: TULARE
+'95695':
+  :city: WOODLAND
+  :state: CA
+  :county: YOLO
+'95776':
+  :city: WOODLAND
+  :state: CA
+  :county: ''
+'91364':
+  :city: WOODLAND HILLS
+  :state: CA
+  :county: LOS ANGELES
+'91365':
+  :city: WOODLAND HILLS
+  :state: CA
+  :county: LOS ANGELES
+'91367':
+  :city: WOODLAND HILLS
+  :state: CA
+  :county: LOS ANGELES
+'91371':
+  :city: WOODLAND HILLS
+  :state: CA
+  :county: LOS ANGELES
+'91399':
+  :city: WOODLAND HILLS
+  :state: CA
+  :county: LOS ANGELES
+'93287':
+  :city: WOODY
+  :state: CA
+  :county: ''
+'92397':
+  :city: WRIGHTWOOD
+  :state: CA
+  :county: SAN BERNARDINO
+'92398':
+  :city: YERMO
+  :state: CA
+  :county: SAN BERNARDINO
+'93670':
+  :city: YETTEM
+  :state: CA
+  :county: ''
+'95697':
+  :city: YOLO
+  :state: CA
+  :county: ''
+'92686':
+  :city: YORBA LINDA
+  :state: CA
+  :county: ORANGE
+'92687':
+  :city: YORBA LINDA
+  :state: CA
+  :county: ORANGE
+'92885':
+  :city: YORBA LINDA
+  :state: CA
+  :county: ORANGE
+'92886':
+  :city: YORBA LINDA
+  :state: CA
+  :county: ORANGE
+'92887':
+  :city: YORBA LINDA
+  :state: CA
+  :county: ORANGE
+'95494':
+  :city: YORKVILLE
+  :state: CA
+  :county: MENDOCINO
+'95389':
+  :city: YOSEMITE NATIONAL PA
+  :state: CA
+  :county: ''
+'94599':
+  :city: YOUNTVILLE
+  :state: CA
+  :county: NAPA
+'96097':
+  :city: YREKA
+  :state: CA
+  :county: SISKIYOU
+'95991':
+  :city: YUBA CITY
+  :state: CA
+  :county: SUTTER
+'95992':
+  :city: YUBA CITY
+  :state: CA
+  :county: ''
+'95993':
+  :city: YUBA CITY
+  :state: CA
+  :county: SUTTER
+'92399':
+  :city: YUCAIPA
+  :state: CA
+  :county: SAN BERNARDINO
+'92284':
+  :city: YUCCA VALLEY
+  :state: CA
+  :county: SAN BERNARDINO
+'92286':
+  :city: YUCCA VALLEY
+  :state: CA
+  :county: ''
+'95698':
+  :city: ZAMORA
+  :state: CA
+  :county: ''
+'95595':
+  :city: ZENIA
+  :state: CA
+  :county: ''
+'47408':
+  :city: BLOOMINGTON
+  :state: IN
+  :county: MONROE
